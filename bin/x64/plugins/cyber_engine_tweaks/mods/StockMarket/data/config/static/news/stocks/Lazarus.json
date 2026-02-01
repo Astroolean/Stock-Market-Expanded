@@ -1,0 +1,33 @@
+{
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "sharesAmount": 70000,
+  "atlasPath": "base\\icon\\stocks\\lazarus.inkatlas",
+  "atlasPart": "stock",
+  "iconX": 415,
+  "iconY": 67,
+  "stockInfluence": [
+    {
+      "name": "Militech",
+      "amount": 0.34999999403954
+    }
+  ],
+  "name": "Lazarus",
+  "min": 175,
+  "max": 300,
+  "triggers": [
+    {
+      "name": "quest_LocKey#18014",
+      "amount": -0.10000000149012
+    },
+    {
+      "name": "quest_LocKey#12204",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#12752",
+      "amount": 0.15000000596046
+    }
+  ],
+  "info": "stockInfo_Lazarus"
+}

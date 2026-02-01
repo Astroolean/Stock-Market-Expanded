@@ -1,0 +1,65 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "moneySpent"
+    },
+    {
+      "amount": 1,
+      "name": "rayfieldAction"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#1619"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#1613"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#22086"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#20291"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#20294"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#20291"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#1624"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#10366"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#9463"
+    }
+  ],
+  "maxStepSize": 3,
+  "smoothOff": 5,
+  "sharesAmount": 55000,
+  "atlasPath": "base\\icon\\stocks\\rayfield.inkatlas",
+  "max": 500,
+  "atlasPart": "stock",
+  "iconX": 415,
+  "iconY": 109,
+  "stockInfluence": [
+    {
+      "amount": 0.28000000119209,
+      "name": "Petrochem"
+    }
+  ],
+  "min": 320,
+  "name": "Rayfield",
+  "info": "stockInfo_Rayfield"
+}

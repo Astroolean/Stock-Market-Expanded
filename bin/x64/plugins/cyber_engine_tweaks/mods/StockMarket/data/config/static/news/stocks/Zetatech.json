@@ -1,0 +1,77 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "droneAction"
+    },
+    {
+      "amount": 1,
+      "name": "cwKills"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#17853"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#18639"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12542"
+    },
+    {
+      "amount": -0.22499999403954,
+      "name": "quest_LocKey#12857"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#12523"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#12799"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#50645"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#9470"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#11686"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#12814"
+    }
+  ],
+  "maxStepSize": 2,
+  "smoothOff": 5,
+  "sharesAmount": 40000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "max": 240,
+  "atlasPart": "zetatech",
+  "iconX": 415,
+  "iconY": 100,
+  "stockInfluence": [
+    {
+      "amount": 0.30000001192093,
+      "name": "Orbital Air"
+    },
+    {
+      "amount": 0.22499999403954,
+      "name": "Arasaka"
+    },
+    {
+      "amount": 0.22499999403954,
+      "name": "Militech"
+    }
+  ],
+  "name": "Zetatech",
+  "min": 120,
+  "info": "stockInfo_Zetatech"
+}

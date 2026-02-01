@@ -1,0 +1,15 @@
+{
+  "triggers": [],
+  "maxStepSize": 2.5,
+  "smoothOff": 4,
+  "sharesAmount": 50000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "max": 288,
+  "atlasPart": "arasaka",
+  "iconX": 415,
+  "iconY": 65,
+  "stockInfluence": [],
+  "name": "Turbo Neon Motors",
+  "min": 119,
+  "info": "stockInfo_Quadra"
+}

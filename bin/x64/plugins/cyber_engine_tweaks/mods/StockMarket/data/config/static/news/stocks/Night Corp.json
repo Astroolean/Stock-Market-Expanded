@@ -1,0 +1,132 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "moneySpent"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#10366"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#10374"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#10362"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#10358"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#10005"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12049"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12543"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#12851"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#12625"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#12509"
+    },
+    {
+      "amount": 0.10000000149012,
+      "name": "quest_LocKey#11496"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#12545"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#12976"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#12814"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#8629"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#12061"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#10342"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#8626"
+    },
+    {
+      "amount": 0.10000000149012,
+      "name": "quest_LocKey#8625"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#8625"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#50645"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#9470"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#9466"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#10451"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#79467"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#12839"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#11497"
+    },
+    {
+      "amount": -0.10000000149012,
+      "name": "quest_LocKey#12824"
+    }
+  ],
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "sharesAmount": 25000,
+  "atlasPath": "base\\icon\\stocks\\ncorp.inkatlas",
+  "max": 300,
+  "atlasPart": "stock",
+  "iconX": 205,
+  "iconY": 140,
+  "stockInfluence": [],
+  "min": 100,
+  "name": "Night Corp",
+  "info": "stockInfo_NCorp"
+}

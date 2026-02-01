@@ -1,0 +1,81 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "quadraAction"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#1608"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#78912"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#22078"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#22087"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#20285"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#20288"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#20282"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#1618"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#12005"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#51750"
+    },
+    {
+      "amount": 0.1,
+      "name": "quest_LocKey#79480"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#12061"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#9865"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#11990"
+    }
+  ],
+  "maxStepSize": 2,
+  "smoothOff": 5,
+  "sharesAmount": 8000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "max": 180,
+  "atlasPart": "quadra",
+  "iconX": 415,
+  "iconY": 35,
+  "stockInfluence": [
+    {
+      "amount": 0.25,
+      "name": "Petrochem"
+    }
+  ],
+  "min": 90,
+  "name": "Quadra",
+  "info": "stockInfo_Quadra"
+}
