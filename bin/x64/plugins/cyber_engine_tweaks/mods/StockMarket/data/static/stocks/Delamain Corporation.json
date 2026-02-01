@@ -1,0 +1,93 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "stealCarAny"
+    },
+    {
+      "amount": 1,
+      "name": "roadRage"
+    },
+    {
+      "amount": -1,
+      "name": "purchaseVehicleAny"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12118"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12100"
+    },
+    {
+      "amount": 0.22499999403954,
+      "name": "quest_LocKey#12093"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12113"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12107"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12125"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12088"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#12049"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#12061"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#37512"
+    },
+    {
+      "amount": 0.27500000596046,
+      "name": "quest_LocKey#9470"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12041"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#19157"
+    }
+  ],
+  "maxStepSize": 2,
+  "smoothOff": 5,
+  "sharesAmount": 12000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "max": 80,
+  "atlasPart": "delamain",
+  "iconX": 415,
+  "iconY": 41,
+  "stockInfluence": [
+    {
+      "amount": 0.15000000596046,
+      "name": "Militech"
+    },
+    {
+      "amount": -0.30000001192093,
+      "name": "Thorton"
+    },
+    {
+      "amount": -0.30000001192093,
+      "name": "Quadra"
+    }
+  ],
+  "min": 20,
+  "name": "Delamain Corporation",
+  "info": "stockInfo_Delamain"
+}

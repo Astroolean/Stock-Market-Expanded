@@ -1,0 +1,105 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "roadRage"
+    },
+    {
+      "amount": 1,
+      "name": "civilianKill"
+    },
+    {
+      "amount": 1,
+      "name": "wantedLevel"
+    },
+    {
+      "amount": -1,
+      "name": "ncpdHustler"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#18652"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12913"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#9470"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#11821"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#9462"
+    },
+    {
+      "amount": 0.22499999403954,
+      "name": "quest_LocKey#11960"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#11757"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#19157"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#12839"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#12457"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#11990"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#10299"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#11742"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#10273"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#50253"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#8625"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#12615"
+    }
+  ],
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "sharesAmount": 45000,
+  "atlasPath": "base\\icon\\stocks\\dms.inkatlas",
+  "max": 400,
+  "atlasPart": "stock",
+  "iconX": 292,
+  "iconY": 140,
+  "stockInfluence": [
+    {
+      "amount": 0.25,
+      "name": "Kiroshi"
+    }
+  ],
+  "min": 150,
+  "name": "Diverse Media Systems",
+  "info": "stockInfo_DMS"
+}

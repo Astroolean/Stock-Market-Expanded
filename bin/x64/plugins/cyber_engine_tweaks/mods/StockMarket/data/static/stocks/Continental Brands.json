@@ -1,0 +1,15 @@
+{
+  "triggers": [],
+  "maxStepSize": 3.0,
+  "smoothOff": 4,
+  "sharesAmount": 40000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "max": 220,
+  "atlasPart": "arasaka",
+  "iconX": 415,
+  "iconY": 65,
+  "stockInfluence": [],
+  "name": "Continental Brands",
+  "min": 85,
+  "info": "stockInfo_Continental Brands"
+}

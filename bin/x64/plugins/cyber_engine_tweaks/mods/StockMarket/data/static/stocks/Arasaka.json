@@ -1,0 +1,181 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "arasakaAction"
+    },
+    {
+      "amount": 1,
+      "name": "wantedLevel"
+    },
+    {
+      "amount": 1,
+      "name": "ncpdHustler"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#1625"
+    },
+    {
+      "amount": -0.10000000149012,
+      "name": "quest_LocKey#13100"
+    },
+    {
+      "amount": -0.10000000149012,
+      "name": "quest_LocKey#12760"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#12954"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#12888"
+    },
+    {
+      "amount": -0.10000000149012,
+      "name": "quest_LocKey#13042"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#12691"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12457"
+    },
+    {
+      "amount": 0.15500000119209,
+      "name": "quest_LocKey#11497"
+    },
+    {
+      "amount": 0.10000000149012,
+      "name": "quest_LocKey#12739"
+    },
+    {
+      "amount": 0.10000000149012,
+      "name": "quest_LocKey#12545"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#12942"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#10170"
+    },
+    {
+      "amount": -0.10000000149012,
+      "name": "quest_LocKey#12411"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#10476"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#12380"
+    },
+    {
+      "amount": -0.125,
+      "name": "quest_LocKey#18013"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#12180"
+    },
+    {
+      "amount": -0.34999999403954,
+      "name": "quest_LocKey#18014"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#10040"
+    },
+    {
+      "amount": -0.10000000149012,
+      "name": "quest_LocKey#19199"
+    },
+    {
+      "amount": -0.40000000596046,
+      "name": "quest_LocKey#9470"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#9462"
+    },
+    {
+      "amount": -0.10000000149012,
+      "name": "quest_LocKey#9467"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12204"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#10066"
+    },
+    {
+      "amount": -0.20999999344349,
+      "name": "quest_LocKey#9461"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#10478"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#8625"
+    },
+    {
+      "amount": 0.30000001192093,
+      "name": "quest_LocKey#8641"
+    },
+    {
+      "amount": 0.18000000715256,
+      "name": "quest_LocKey#10451"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#11686"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#12814"
+    },
+    {
+      "amount": 0.25,
+      "name": "quest_LocKey#12752"
+    }
+  ],
+  "maxStepSize": 3.5,
+  "smoothOff": 5,
+  "sharesAmount": 100000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "max": 550,
+  "atlasPart": "arasaka",
+  "iconX": 415,
+  "iconY": 65,
+  "stockInfluence": [
+    {
+      "amount": -0.40000000596046,
+      "name": "Militech"
+    },
+    {
+      "amount": -0.33300000429153,
+      "name": "Kang Tao"
+    },
+    {
+      "amount": 0.30000001192093,
+      "name": "Asukaga"
+    },
+    {
+      "amount": -0.33300000429153,
+      "name": "Tsunami"
+    }
+  ],
+  "name": "Arasaka",
+  "min": 250,
+  "info": "stockInfo_Arasaka"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Herrera",
+  "min": 50,
+  "max": 180,
+  "maxStepSize": 4,
+  "smoothOff": 5,
+  "sharesAmount": 40000,
+  "atlasPath": "base\\\\gameplay\\\\gui\\\\common\\\\icons\\\\weapon_manufacturers.inkatlas",
+  "atlasPart": "arasaka",
+  "iconX": 415,
+  "iconY": 65,
+  "stockInfluence": [],
+  "triggers": [
+    {
+      "name": "vehicleUsage",
+      "amount": 0.8
+    },
+    {
+      "name": "event_herrera",
+      "amount": 5
+    }
+  ],
+  "info": "stockInfo_Herrera"
+}

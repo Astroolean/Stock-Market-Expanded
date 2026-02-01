@@ -1,0 +1,133 @@
+{
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "sharesAmount": 15000,
+  "atlasPath": "base\\icon\\stocks\\biotechnica.inkatlas",
+  "atlasPart": "stock",
+  "iconX": 215,
+  "iconY": 140,
+  "stockInfluence": [
+    {
+      "name": "All Foods",
+      "amount": 0.34999999403954
+    }
+  ],
+  "name": "Biotechnica",
+  "min": 50,
+  "max": 140,
+  "triggers": [
+    {
+      "name": "vendingMachine",
+      "amount": 1
+    },
+    {
+      "name": "bioGrenadeUsage",
+      "amount": 1
+    },
+    {
+      "name": "healsUsed",
+      "amount": 1
+    },
+    {
+      "name": "quest_LocKey#10366",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "quest_LocKey#10374",
+      "amount": -0.25
+    },
+    {
+      "name": "quest_LocKey#19331",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "quest_LocKey#10362",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "quest_LocKey#10358",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "quest_LocKey#19321",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#14540",
+      "amount": -0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#12543",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#12881",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#12448",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#12730",
+      "amount": -0.050000000745058
+    },
+    {
+      "name": "quest_LocKey#12867",
+      "amount": 0.11999999731779
+    },
+    {
+      "name": "quest_LocKey#13077",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#12781",
+      "amount": 0.125
+    },
+    {
+      "name": "quest_LocKey#12906",
+      "amount": -0.125
+    },
+    {
+      "name": "quest_LocKey#12976",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#12720",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "quest_LocKey#8633",
+      "amount": 0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#10456",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#9462",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#9467",
+      "amount": 0.125
+    },
+    {
+      "name": "quest_LocKey#9466",
+      "amount": 0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#8628",
+      "amount": 0.1
+    },
+    {
+      "name": "quest_LocKey#11821",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#12544",
+      "amount": -0.25
+    }
+  ],
+  "info": "stockInfo_Biotechnica"
+}

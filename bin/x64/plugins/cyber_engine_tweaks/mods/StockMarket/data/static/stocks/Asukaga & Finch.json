@@ -1,0 +1,49 @@
+{
+  "triggers": [
+    {
+      "amount": -1,
+      "name": "richDistrictCrime"
+    },
+    {
+      "amount": 0.5,
+      "name": "stockInvest"
+    },
+    {
+      "amount": 0.10000000149012,
+      "name": "quest_LocKey#14540"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#12851"
+    },
+    {
+      "amount": 0.22499999403954,
+      "name": "quest_LocKey#11686"
+    },
+    {
+      "amount": -0.17499999701977,
+      "name": "quest_LocKey#9470"
+    }
+  ],
+  "maxStepSize": 3,
+  "smoothOff": 5,
+  "sharesAmount": 60000,
+  "atlasPath": "base\\icon\\stocks\\asakuga.inkatlas",
+  "max": 350,
+  "atlasPart": "stock",
+  "iconX": 313,
+  "iconY": 140,
+  "stockInfluence": [
+    {
+      "amount": 0.30000001192093,
+      "name": "Rayfield"
+    },
+    {
+      "amount": 0.27500000596046,
+      "name": "MoorE"
+    }
+  ],
+  "name": "Asukaga & Finch",
+  "min": 150,
+  "info": "stockInfo_Asukaga"
+}

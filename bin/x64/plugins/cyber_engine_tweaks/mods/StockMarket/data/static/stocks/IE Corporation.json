@@ -1,0 +1,24 @@
+{
+  "name": "IE Corporation",
+  "min": 150,
+  "max": 400,
+  "maxStepSize": 2.5,
+  "smoothOff": 4,
+  "sharesAmount": 80000,
+  "atlasPath": "base\\\\gameplay\\\\gui\\\\common\\\\icons\\\\weapon_manufacturers.inkatlas",
+  "atlasPart": "arasaka",
+  "iconX": 415,
+  "iconY": 65,
+  "stockInfluence": [],
+  "triggers": [
+    {
+      "name": "qhUsage",
+      "amount": 0.4
+    },
+    {
+      "name": "event_iec",
+      "amount": 5
+    }
+  ],
+  "info": "stockInfo_IEC"
+}

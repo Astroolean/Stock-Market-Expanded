@@ -1,0 +1,81 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "budgetArmsKills"
+    },
+    {
+      "amount": 1,
+      "name": "civilianKill"
+    },
+    {
+      "amount": 1,
+      "name": "wantedLevel"
+    },
+    {
+      "amount": 0.125,
+      "name": "quest_LocKey#12851"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#13026"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#8625"
+    },
+    {
+      "amount": 0.21999999880791,
+      "name": "quest_LocKey#10473"
+    },
+    {
+      "amount": 0.27500000596046,
+      "name": "quest_LocKey#9470"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#10451"
+    },
+    {
+      "amount": 0.16500000655651,
+      "name": "quest_LocKey#10330"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#19157"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#18014"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#12824"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#12857"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#12752"
+    }
+  ],
+  "maxStepSize": 2,
+  "smoothOff": 5,
+  "sharesAmount": 10000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "max": 70,
+  "atlasPart": "budgetarms",
+  "iconX": 260,
+  "iconY": 140,
+  "stockInfluence": [
+    {
+      "amount": -0.34999999403954,
+      "name": "Darra Poly"
+    }
+  ],
+  "name": "Budget Arms",
+  "min": 20,
+  "info": "stockInfo_Budget Arms"
+}

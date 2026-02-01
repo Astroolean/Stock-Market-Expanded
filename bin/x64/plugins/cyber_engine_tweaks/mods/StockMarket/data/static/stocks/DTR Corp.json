@@ -1,0 +1,69 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "purchaseVehicleAny"
+    },
+    {
+      "amount": 1,
+      "name": "anyItemPurchase"
+    },
+    {
+      "amount": -1,
+      "name": "civilianKill"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#1620"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#22089"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#1616"
+    },
+    {
+      "amount": 0.20000000298023,
+      "name": "quest_LocKey#1609"
+    },
+    {
+      "amount": -0.15000000596046,
+      "name": "quest_LocKey#12465"
+    },
+    {
+      "amount": 0.17499999701977,
+      "name": "quest_LocKey#12457"
+    }
+  ],
+  "maxStepSize": 3,
+  "smoothOff": 5,
+  "sharesAmount": 70000,
+  "atlasPath": "base\\icon\\stocks\\dtr.inkatlas",
+  "max": 500,
+  "atlasPart": "stock",
+  "iconX": 275,
+  "iconY": 140,
+  "stockInfluence": [
+    {
+      "amount": 0.20000000298023,
+      "name": "Arasaka"
+    },
+    {
+      "amount": 0.30000001192093,
+      "name": "Kang Tao"
+    },
+    {
+      "amount": -0.30000001192093,
+      "name": "Orbital Air"
+    },
+    {
+      "amount": -0.25,
+      "name": "Kaukaz"
+    }
+  ],
+  "min": 200,
+  "name": "DTR Corp",
+  "info": "stockInfo_DTR"
+}

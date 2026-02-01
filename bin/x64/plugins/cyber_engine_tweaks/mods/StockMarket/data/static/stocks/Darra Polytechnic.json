@@ -1,0 +1,32 @@
+{
+  "max": 175,
+  "atlasPart": "darra",
+  "sharesAmount": 25000,
+  "atlasPath": "base\\gameplay\\gui\\common\\icons\\weapon_manufacturers.inkatlas",
+  "min": 75,
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "triggers": [
+    {
+      "name": "darraKills",
+      "amount": 1
+    },
+    {
+      "name": "civilianKill",
+      "amount": 1
+    },
+    {
+      "name": "wantedLevel",
+      "amount": 1
+    },
+    {
+      "name": "quest_LocKey#13026",
+      "amount": 0.17499999701977
+    }
+  ],
+  "stockInfluence": [],
+  "iconX": 415,
+  "name": "Darra Polytechnic",
+  "iconY": 88,
+  "info": "stockInfo_Darra Poly"
+}

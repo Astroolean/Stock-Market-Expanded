@@ -1,0 +1,120 @@
+{
+  "maxStepSize": 2,
+  "smoothOff": 5,
+  "sharesAmount": 20000,
+  "atlasPath": "base\\icon\\stocks\\cytech.inkatlas",
+  "atlasPart": "stock",
+  "iconX": 353,
+  "iconY": 140,
+  "stockInfluence": [],
+  "name": "Cytech",
+  "min": 40,
+  "max": 120,
+  "triggers": [
+    {
+      "name": "cwKills",
+      "amount": 1
+    },
+    {
+      "name": "quest_LocKey#10366",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "quest_LocKey#10374",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "quest_LocKey#10358",
+      "amount": 0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#18652",
+      "amount": -0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#10005",
+      "amount": -0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#19144",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#18648",
+      "amount": -0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#50249",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#18637",
+      "amount": 0.10000000149012
+    },
+    {
+      "name": "quest_LocKey#18637",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#18653",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#9991",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#18708",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#10016",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#18639",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#18649",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#12867",
+      "amount": 0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#12900",
+      "amount": -0.10000000149012
+    },
+    {
+      "name": "quest_LocKey#12993",
+      "amount": -0.10000000149012
+    },
+    {
+      "name": "quest_LocKey#12781",
+      "amount": -0.30000001192093
+    },
+    {
+      "name": "quest_LocKey#10188",
+      "amount": -0.10000000149012
+    },
+    {
+      "name": "quest_LocKey#50645",
+      "amount": -0.125
+    },
+    {
+      "name": "quest_LocKey#12437",
+      "amount": 0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#8628",
+      "amount": 0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#17853",
+      "amount": 0.22499999403954
+    }
+  ],
+  "info": "stockInfo_Cytech"
+}

@@ -1,0 +1,40 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "vendingMachine"
+    },
+    {
+      "amount": 1,
+      "name": "foodPurchase"
+    },
+    {
+      "amount": 0.22499999403954,
+      "name": "quest_LocKey#9470"
+    },
+    {
+      "amount": -0.20000000298023,
+      "name": "quest_LocKey#9467"
+    },
+    {
+      "amount": 0.15000000596046,
+      "name": "quest_LocKey#27951"
+    },
+    {
+      "amount": 0.10000000149012,
+      "name": "quest_LocKey#12258"
+    }
+  ],
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "sharesAmount": 20000,
+  "min": 75,
+  "max": 150,
+  "atlasPart": "stock",
+  "iconX": 255,
+  "iconY": 140,
+  "stockInfluence": [],
+  "name": "All Foods",
+  "atlasPath": "base\\icon\\stocks\\all_foods.inkatlas",
+  "info": "stockInfo_All Foods"
+}

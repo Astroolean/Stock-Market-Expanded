@@ -1,0 +1,41 @@
+{
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "sharesAmount": 25000,
+  "atlasPath": "base\\icon\\stocks\\dyanlar.inkatlas",
+  "atlasPart": "stock",
+  "iconX": 415,
+  "iconY": 35,
+  "stockInfluence": [
+    {
+      "amount": -0.30000001192093,
+      "name": "Raven"
+    }
+  ],
+  "name": "Dynalar",
+  "min": 180,
+  "max": 400,
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "cwKills"
+    },
+    {
+      "amount": 1,
+      "name": "moneySpent"
+    },
+    {
+      "amount": -0.25,
+      "name": "quest_LocKey#12993"
+    },
+    {
+      "name": "quest_LocKey#12781",
+      "amount": 0.21999999880791
+    },
+    {
+      "name": "quest_LocKey#50645",
+      "amount": -0.125
+    }
+  ],
+  "info": "stockInfo_Dynalar"
+}
