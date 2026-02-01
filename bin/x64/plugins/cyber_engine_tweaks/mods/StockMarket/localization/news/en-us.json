@@ -1,0 +1,4308 @@
+{
+  "quest_LocKey#9467": {
+    "default": {
+      "msg": "Arasaka Corporation announces state-of-the-art security measures. New Soulkiller countermeasures and Netrunner detection systems now operational.",
+      "title": "ARASAKA TOWER SECURITY UPGRADED"
+    },
+    "choice": {
+      "msg": "Night City councilman arrested on corruption charges. Kickback scheme exposed.",
+      "title": "COUNCIL CORRUPTION"
+    }
+  },
+  "quest_LocKey#10009": {
+    "default": {
+      "msg": "Militech demonstrates the Basilisk hover tank at proving grounds. NUSA military officials express strong interest in the weapons platform.",
+      "title": "MILITECH BASILISK DEMONSTRATION"
+    },
+    "choice": {
+      "msg": "Night City council debates new regulations on genetic modification services.",
+      "title": "REGULATION DEBATE"
+    }
+  },
+  "quest_LocKey#14557": {
+    "default": {
+      "msg": "Biotechnica announces genetic modification breakthrough increasing CHOOH2 fuel wheat yields by 40 percent. Energy markets respond positively.",
+      "title": "BIOTECHNICA FUEL BREAKTHROUGH"
+    },
+    "choice": {
+      "msg": "NUSA border forces increase immigration enforcement. Nomad clans affected.",
+      "title": "BORDER CRACKDOWN"
+    }
+  },
+  "quest_LocKey#10299": {
+    "default": {
+      "msg": "Trauma Team International reports fastest response times in company history. New AV-4 medical vehicles credited for improvement.",
+      "title": "TRAUMA TEAM RESPONSE RECORD"
+    },
+    "choice": {
+      "msg": "Residents debate rise of vigilante justice as NCPD resources strain.",
+      "title": "VIGILANTE DEBATE"
+    }
+  },
+  "quest_LocKey#12984": {
+    "default": {
+      "msg": "Kang Tao secures major smart weapons contract with NUSA defense forces. Analysts predict strong quarterly earnings.",
+      "title": "KANG TAO CONTRACT SECURED"
+    },
+    "choice": {
+      "msg": "Night City Transit Authority faces significant budget cuts. Service reductions expected.",
+      "title": "BUDGET CUTS"
+    }
+  },
+  "quest_LocKey#11594": {
+    "default": {
+      "msg": "Explosion at Petrochem refinery in Santo Domingo contained by emergency responders. Investigation into cause underway.",
+      "title": "PETROCHEM REFINERY INCIDENT"
+    },
+    "choice": {
+      "msg": "NUSA designates Dogtown as restricted military zone. Unauthorized entry prohibited.",
+      "title": "DOGTOWN LOCKDOWN"
+    }
+  },
+  "quest_LocKey#12857": {
+    "default": {
+      "msg": "Orbital Air announces new suborbital routes connecting Night City to European hubs. Travel time reduced significantly.",
+      "title": "ORBITAL AIR ROUTE EXPANSION"
+    },
+    "choice": {
+      "msg": "Sources inside Dogtown report increased control measures. Residents face strict curfews.",
+      "title": "HANSEN CONTROL"
+    }
+  },
+  "quest_LocKey#80441": {
+    "default": {
+      "msg": "Zetatech unveils revolutionary quantum processing chip for high-end cyberdecks. Netrunners anticipate performance breakthrough.",
+      "title": "ZETATECH CYBERDECK LAUNCH"
+    },
+    "choice": {
+      "msg": "Netwatch reports unusual activity patterns at Blackwall barriers. Protocols initiated.",
+      "title": "BLACKWALL ANOMALY"
+    }
+  },
+  "quest_LocKey#19199": {
+    "default": {
+      "msg": "Kiroshi releases critical firmware update for optical implants. Users advised to visit licensed ripperdocs immediately.",
+      "title": "KIROSHI OPTICS UPDATE"
+    },
+    "choice": {
+      "msg": "Black market operations intensify in abandoned stadium district. Security concerns grow.",
+      "title": "STADIUM OPERATIONS"
+    }
+  },
+  "quest_LocKey#14540": {
+    "default": {
+      "msg": "Multiple reports of erratic Delamain cab behavior across Night City. Company assures customers issues are being resolved.",
+      "title": "DELAMAIN SERVICE ALERT"
+    },
+    "choice": {
+      "msg": "Daring art heist from prestigious Night City gallery. Priceless works stolen overnight.",
+      "title": "ART HEIST"
+    }
+  },
+  "quest_LocKey#10456": {
+    "default": {
+      "msg": "NCPD MaxTac raids Maelstrom gang headquarters in All Foods plant. Multiple arrests made, cyberware lab discovered.",
+      "title": "MAELSTROM RAID IN WATSON"
+    },
+    "choice": {
+      "msg": "Prominent gang leader assassinated in broad daylight. Power struggle expected.",
+      "title": "GANG LEADER KILLED"
+    }
+  },
+  "quest_LocKey#12118": {
+    "default": {
+      "msg": "Tyger Claws expand territory in Westbrook Japantown. Rival gangs responding with increased patrols.",
+      "title": "TYGER CLAWS EXPANSION"
+    },
+    "choice": {
+      "msg": "Rare pre-collapse automobile sells for record price. Collectors compete fiercely.",
+      "title": "LUXURY CAR AUCTION"
+    }
+  },
+  "quest_LocKey#12125": {
+    "default": {
+      "msg": "Valentinos solidify control over key Heywood territories. Local businesses report increased protection demands.",
+      "title": "VALENTINOS HEYWOOD CONTROL"
+    },
+    "choice": {
+      "msg": "NCPD raids high-stakes underground casino. Prominent citizens among detained.",
+      "title": "UNDERGROUND CASINO"
+    }
+  },
+  "quest_LocKey#12023": {
+    "default": {
+      "msg": "NCPD raids Animals gang headquarters in Pacifica. Synthetic steroid laboratory discovered and dismantled.",
+      "title": "ANIMALS GYM SHUTDOWN"
+    },
+    "choice": {
+      "msg": "Major talent agency accused of exploiting performers. Investigation launched.",
+      "title": "TALENT SCANDAL"
+    }
+  },
+  "quest_LocKey#8629": {
+    "default": {
+      "msg": "Netwatch reports intercepted Voodoo Boys attempt to contact entities beyond the Blackwall. High alert issued.",
+      "title": "VOODOO BOYS BLACKWALL PROBE"
+    },
+    "choice": {
+      "msg": "Annual corporate charity gala raises record funds. Critics question authenticity.",
+      "title": "CHARITY GALA"
+    }
+  },
+  "quest_LocKey#10479": {
+    "default": {
+      "msg": "6th Street gang hosts veterans gathering in Santo Domingo. NCPD maintains watchful distance as members assemble.",
+      "title": "6TH STREET GATHERING"
+    },
+    "choice": {
+      "msg": "Controversial weather control experiment conducted. Environmental impact debated.",
+      "title": "WEATHER EXPERIMENT"
+    }
+  },
+  "quest_LocKey#35281": {
+    "default": {
+      "msg": "NCPD cybercrimes unit dismantles major Scavenger organ harvesting operation. Dozens of victims recovered.",
+      "title": "SCAVENGER DEN RAIDED"
+    },
+    "choice": {
+      "msg": "Controversial demolition of historic building proceeds despite protests.",
+      "title": "HISTORIC DEMOLITION"
+    }
+  },
+  "quest_LocKey#10224": {
+    "default": {
+      "msg": "The Mox successfully repel hostile takeover attempt at Lizzie Bar. Gang solidarity praised by community.",
+      "title": "MOX DEFEND TERRITORY"
+    },
+    "choice": {
+      "msg": "Construction crew discovers pre-collapse underground bunker. Artifacts recovered.",
+      "title": "BUNKER DISCOVERED"
+    }
+  },
+  "quest_LocKey#12881": {
+    "default": {
+      "msg": "Nomad sources report Wraith raider convoy ambushed in the Badlands. No group claims responsibility.",
+      "title": "WRAITH CONVOY AMBUSH"
+    },
+    "choice": {
+      "msg": "Young street kid displays extraordinary netrunning abilities. Corps compete for recruitment.",
+      "title": "PRODIGY DISCOVERED"
+    }
+  },
+  "quest_LocKey#11742": {
+    "default": {
+      "msg": "Violence escalates between rival gangs in contested territories. NCPD struggles to maintain order.",
+      "title": "GANG WAR ESCALATION"
+    },
+    "choice": {
+      "msg": "NCPD raids illegal human cloning facility. Ethical implications spark outrage.",
+      "title": "CLONING FACILITY"
+    }
+  },
+  "quest_LocKey#10008": {
+    "default": {
+      "msg": "MaxTac squad neutralizes dangerous cyberpsycho in Kabuki marketplace. Three officers injured in operation.",
+      "title": "CYBERPSYCHO NEUTRALIZED"
+    },
+    "choice": {
+      "msg": "Smart weapon targeting malfunction causes deaths. Manufacturer faces lawsuit.",
+      "title": "WEAPON MALFUNCTION"
+    }
+  },
+  "quest_LocKey#9465": {
+    "default": {
+      "msg": "NCPD deploys new body scanner checkpoints at major transit hubs. Privacy advocates protest surveillance.",
+      "title": "NCPD SCANNER DEPLOYMENT"
+    },
+    "choice": {
+      "msg": "Famous celebrity bodyguard implicated in smuggling. Court date set.",
+      "title": "BODYGUARD SCANDAL"
+    }
+  },
+  "quest_LocKey#11686": {
+    "default": {
+      "msg": "Night City council approves significant budget increase for NCPD operations. New hiring wave expected.",
+      "title": "NCPD BUDGET APPROVED"
+    },
+    "choice": {
+      "msg": "Security researchers demonstrate vulnerability in neural implants. Patch rushed.",
+      "title": "NEURAL HACK RISK"
+    }
+  },
+  "quest_LocKey#12457": {
+    "default": {
+      "msg": "Internal Affairs opens investigation into corruption at NCPD South Night City precinct.",
+      "title": "NCPD CORRUPTION PROBE"
+    },
+    "choice": {
+      "msg": "Investigative journalists expose illegal toxic waste dumping. Corporate involvement suspected.",
+      "title": "TOXIC DUMPING"
+    }
+  },
+  "quest_LocKey#22089": {
+    "default": {
+      "msg": "MaxTac successfully contains cyberpsychosis outbreak in Watson district. Casualties minimal.",
+      "title": "MAXTAC OPERATION SUCCESS"
+    },
+    "choice": {
+      "msg": "Critical organ shortage forces hospitals to make difficult decisions.",
+      "title": "ORGAN SHORTAGE"
+    }
+  },
+  "quest_LocKey#10245": {
+    "default": {
+      "msg": "Eurodollar strengthens against NUSA dollar following positive economic indicators. Markets adjust accordingly.",
+      "title": "EURODOLLAR STRENGTHENS"
+    },
+    "choice": {
+      "msg": "Major cyberware manufacturer recalls limbs due to defect. Users urged to respond.",
+      "title": "IMPLANT RECALL"
+    }
+  },
+  "quest_LocKey#1608": {
+    "default": {
+      "msg": "Night City Stock Exchange reports record trading volume. Analysts attribute surge to corporate activity.",
+      "title": "STOCK EXCHANGE RECORD"
+    },
+    "choice": {
+      "msg": "Prominent ripperdoc loses license following botched surgery. Patient files suit.",
+      "title": "LICENSE REVOKED"
+    }
+  },
+  "quest_LocKey#12851": {
+    "default": {
+      "msg": "Foreclosure rates in Night City megabuildings reach five-year high. Housing advocates demand intervention.",
+      "title": "MEGABUILDING CRISIS"
+    },
+    "choice": {
+      "msg": "Rival gangs enter delicate truce negotiations. Fixers mediate discussions.",
+      "title": "TRUCE NEGOTIATIONS"
+    }
+  },
+  "quest_LocKey#80438": {
+    "default": {
+      "msg": "Rumors of merger negotiations between major corporations spark market speculation.",
+      "title": "CORPORATE MERGER TALKS"
+    },
+    "choice": {
+      "msg": "Trauma Team AV held hostage during extraction. Negotiators work to resolve.",
+      "title": "HOSTAGE STANDOFF"
+    }
+  },
+  "quest_LocKey#12442": {
+    "default": {
+      "msg": "Major corporation reports earnings exceeding analyst expectations. Stock price surges on news.",
+      "title": "QUARTERLY EARNINGS BEAT"
+    },
+    "choice": {
+      "msg": "Explosion destroys luxury yacht in harbor. Corporate executive among casualties.",
+      "title": "YACHT EXPLOSION"
+    }
+  },
+  "quest_LocKey#13026": {
+    "default": {
+      "msg": "NCART metro service suspended between Watson and City Center. Track maintenance emergency declared.",
+      "title": "NCART DISRUPTION"
+    },
+    "choice": {
+      "msg": "Underground street racing championship crowns new champion. Record prize awarded.",
+      "title": "RACING CHAMPION"
+    }
+  },
+  "quest_LocKey#13106": {
+    "default": {
+      "msg": "Pacifica district reconstruction efforts stall as contractors cite security concerns.",
+      "title": "PACIFICA RECONSTRUCTION"
+    },
+    "choice": {
+      "msg": "Prototype military weapon stolen from secure facility. Massive reward offered.",
+      "title": "PROTOTYPE THEFT"
+    }
+  },
+  "quest_LocKey#9970": {
+    "default": {
+      "msg": "Night City Power Authority completes Watson district power grid modernization.",
+      "title": "WATSON POWER UPGRADE"
+    },
+    "choice": {
+      "msg": "Anonymous hacker collective releases manifesto threatening targets.",
+      "title": "HACKER MANIFESTO"
+    }
+  },
+  "quest_LocKey#1618": {
+    "default": {
+      "msg": "Residents protest rapid gentrification in Glen neighborhood. Developers promise affordable units.",
+      "title": "HEYWOOD PROTESTS"
+    },
+    "choice": {
+      "msg": "Night City Fashion Week disrupted by protest action. Shows rescheduled.",
+      "title": "FASHION WEEK CHAOS"
+    }
+  },
+  "quest_LocKey#10478": {
+    "default": {
+      "msg": "Nomad clans and corporate interests clash over Badlands water rights. NUSA mediators intervene.",
+      "title": "BADLANDS WATER DISPUTE"
+    },
+    "choice": {
+      "msg": "Underground theater scene thrives despite corporate entertainment dominance.",
+      "title": "THEATER THRIVES"
+    }
+  },
+  "quest_LocKey#12429": {
+    "default": {
+      "msg": "Night City council considers restrictions on military-grade Sandevistan implants following fatalities.",
+      "title": "SANDEVISTAN RESTRICTIONS"
+    },
+    "choice": {
+      "msg": "Vintage pre-collapse music experiences revival among youth. Record sales surge.",
+      "title": "MUSIC REVIVAL"
+    }
+  },
+  "quest_LocKey#12993": {
+    "default": {
+      "msg": "Underground fighting circuits featuring gorilla arms gain popularity. NCPD struggles to shut venues.",
+      "title": "GORILLA ARMS FIGHTS"
+    },
+    "choice": {
+      "msg": "Annual street food festival draws thousands. Culinary diversity celebrated.",
+      "title": "FOOD FESTIVAL"
+    }
+  },
+  "quest_LocKey#9470": {
+    "default": {
+      "msg": "Emergency rooms report surge in Mantis Blade-related accidents. Ripperdocs urge proper training.",
+      "title": "MANTIS BLADE ACCIDENTS"
+    },
+    "choice": {
+      "msg": "Abandoned mall transformed into community housing. Urban renewal praised.",
+      "title": "MALL TRANSFORMATION"
+    }
+  },
+  "quest_LocKey#18654": {
+    "default": {
+      "msg": "New braindance addiction treatment centers opening. Health officials warn of growing BD dependency.",
+      "title": "BRAINDANCE ADDICTION"
+    },
+    "choice": {
+      "msg": "Corporate heir hosts scandalous party caught on video. Family reputation damaged.",
+      "title": "CORPORATE PARTY SCANDAL"
+    }
+  },
+  "quest_LocKey#10436": {
+    "default": {
+      "msg": "Medical researchers identify syndrome affecting professional netrunners. ICE exposure linked to damage.",
+      "title": "NETRUNNER BURNOUT"
+    },
+    "choice": {
+      "msg": "Underground cyberware fighting league gains attention. Regulators consider action.",
+      "title": "FIGHTING LEAGUE"
+    }
+  },
+  "quest_LocKey#10473": {
+    "default": {
+      "msg": "Legendary rockerband Us Cracks announces surprise concert at Afterlife. Tickets sold out instantly.",
+      "title": "US CRACKS CONCERT"
+    },
+    "choice": {
+      "msg": "Potential bioweapon threat in water supply averted. Authorities assure safety.",
+      "title": "BIOWEAPON AVERTED"
+    }
+  },
+  "quest_LocKey#11632": {
+    "default": {
+      "msg": "NCPD seizes massive illegal XBD braindance production facility. Victims rescued from recording site.",
+      "title": "XBD PRODUCTION BUST"
+    },
+    "choice": {
+      "msg": "Structural engineers raise concerns about megabuilding safety. Inspections ordered.",
+      "title": "BUILDING COLLAPSE FEARS"
+    }
+  },
+  "bioGrenadeUsage": {
+    "default": {
+      "msg": "Latest economic data shows unexpected changes in Night City's financial sector. Analysts recommend portfolio adjustments in response to new information.",
+      "title": "ECONOMIC INDICATORS SHIFT"
+    },
+    "choice": {
+      "msg": "NCPD shuts down unlicensed ripperdoc clinic in Watson. Dozens of poorly installed implants documented.",
+      "title": "RIPPERDOC UNLICENSED OPERATION"
+    }
+  },
+  "quest_LocKey#12770": {
+    "default": {
+      "msg": "Rumors circulate about possible Samurai band reunion tour. Representatives decline to comment.",
+      "title": "SAMURAI REUNION RUMORS"
+    },
+    "choice": {
+      "msg": "Security drone swarm malfunctions in Corpo Plaza. Injuries reported.",
+      "title": "DRONE MALFUNCTION"
+    }
+  },
+  "quest_LocKey#12543": {
+    "default": {
+      "msg": "Lizzie Bar celebrates anniversary with special performances. The Mox-owned venue thriving.",
+      "title": "LIZZIE BAR ANNIVERSARY"
+    },
+    "choice": {
+      "msg": "Pirate radio station briefly takes over frequency. Anti-corporate message broadcast.",
+      "title": "PIRATE RADIO"
+    }
+  },
+  "quest_LocKey#13077": {
+    "default": {
+      "msg": "Famous braindance star hospitalized after overdose at Clouds. Representatives request privacy.",
+      "title": "CELEBRITY BD OVERDOSE"
+    },
+    "choice": {
+      "msg": "Health officials warn of virtual reality addiction epidemic. Treatment centers surge.",
+      "title": "VR ADDICTION"
+    }
+  },
+  "quest_LocKey#18013": {
+    "default": {
+      "msg": "Large Aldecaldos nomad caravan spotted near Night City borders. Authorities monitor for activity.",
+      "title": "ALDECALDOS SPOTTED"
+    },
+    "choice": {
+      "msg": "Regulatory authorities block major corporate merger. Anti-monopoly concerns cited.",
+      "title": "MERGER BLOCKED"
+    }
+  },
+  "quest_LocKey#1624": {
+    "default": {
+      "msg": "Major nomad trading clans adjust routes due to Wraith activity. Supply disruptions expected.",
+      "title": "NOMAD ROUTES SHIFT"
+    },
+    "choice": {
+      "msg": "Provocative street art in Japantown sparks controversy. Artist unknown.",
+      "title": "STREET ART CONTROVERSY"
+    }
+  },
+  "budgetArmsKills": {
+    "default": {
+      "msg": "In a shareholder meeting earlier today the CEO of Budget Arms announced that the company exceeded profit expectations for the current quarter by over 30 percent. A major part in this rise can be attributed to the increased number of legal self-defense shootings involving Budget Arms weapons. Shares of the company are expected to rise in the wake of this announcement.",
+      "title": "BUDGET ARMS REPORTS PROFITS"
+    },
+    "choice": {
+      "msg": "NCPD shuts down unlicensed ripperdoc clinic in Watson. Dozens of poorly installed implants documented.",
+      "title": "RIPPERDOC UNLICENSED OPERATION"
+    }
+  },
+  "quest_LocKey#14558": {
+    "default": {
+      "msg": "Firefight between nomad clans and raiders in Badlands leaves multiple casualties.",
+      "title": "BADLANDS SKIRMISH"
+    },
+    "choice": {
+      "msg": "Protests erupt following alleged NCPD brutality incident. Officials call for calm.",
+      "title": "BRUTALITY PROTESTS"
+    }
+  },
+  "quest_LocKey#10334": {
+    "default": {
+      "msg": "NCPD shuts down unlicensed ripperdoc clinic in Watson. Poorly installed implants documented.",
+      "title": "RIPPERDOC SHUTDOWN"
+    },
+    "choice": {
+      "msg": "Alarming cluster of missing persons cases in Heywood. Families demand investigation.",
+      "title": "MISSING PERSONS"
+    }
+  },
+  "quest_LocKey#20291": {
+    "default": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility.",
+      "title": "CORPO PLAZA BOMB"
+    },
+    "choice": {
+      "msg": "Corporate tower evacuated following bomb threat. All clear given.",
+      "title": "TOWER EVACUATION"
+    }
+  },
+  "quest_LocKey#79477": {
+    "default": {
+      "msg": "Prominent Night City fixer found dead in Heywood apartment. Mercenary community on alert.",
+      "title": "FIXER ASSASSINATION"
+    },
+    "choice": {
+      "msg": "Renowned tech genius disappears mysteriously. Foul play suspected.",
+      "title": "TECH DISAPPEARANCE"
+    }
+  },
+  "quest_LocKey#20294": {
+    "default": {
+      "msg": "NCPD announces crackdown on illegal street racing circuits. Multiple arrests in Arroyo.",
+      "title": "STREET RACING BUST"
+    },
+    "choice": {
+      "msg": "Experimental drug trial halted after severe side effects. Participants seek damages.",
+      "title": "DRUG TRIAL HALTED"
+    }
+  },
+  "quest_LocKey#26830": {
+    "default": {
+      "msg": "Major black market cyberware ring dismantled. Military-grade implants recovered.",
+      "title": "CYBERWARE BUST"
+    },
+    "choice": {
+      "msg": "NCPD cracks down on unlicensed street vendors. Small business owners protest.",
+      "title": "VENDOR CRACKDOWN"
+    }
+  },
+  "quest_LocKey#12888": {
+    "default": {
+      "msg": "Special forces rescue kidnapped corporate executive from hostage situation.",
+      "title": "KIDNAPPING RESCUE"
+    },
+    "choice": {
+      "msg": "Reclusive fixer grants rare media interview. Mercenary trade insights revealed.",
+      "title": "FIXER INTERVIEW"
+    }
+  },
+  "quest_LocKey#12589": {
+    "default": {
+      "msg": "Shooting at popular nightclub leaves multiple casualties. Gang involvement suspected.",
+      "title": "SHOOTING AT CLUB"
+    },
+    "choice": {
+      "msg": "Scientists announce breakthrough in synthetic food production. Improvements claimed.",
+      "title": "SYNTHETIC FOOD"
+    }
+  },
+  "quest_LocKey#10025": {
+    "default": {
+      "msg": "Researchers announce promising clinical trials for cyberpsychosis treatment. Patients hopeful.",
+      "title": "CYBERPSYCHOSIS TRIALS"
+    },
+    "choice": {
+      "msg": "Luxury underground bunker listed amid doomsday fears. Ultra-wealthy show interest.",
+      "title": "BUNKER SALE"
+    }
+  },
+  "quest_LocKey#12959": {
+    "default": {
+      "msg": "Medical researchers report increase in implant rejection cases. Protocols being updated.",
+      "title": "IMPLANT REJECTION RISE"
+    },
+    "choice": {
+      "msg": "Night City observes Veterans Day with memorial ceremonies. Corporate war veterans honored.",
+      "title": "VETERANS DAY"
+    }
+  },
+  "quest_LocKey#37512": {
+    "default": {
+      "msg": "Hospitals report critical shortage of synthetic organs. Black market prices surge.",
+      "title": "SYNTHETIC ORGAN CRISIS"
+    },
+    "choice": {
+      "msg": "Major investment announced in renewable energy projects. Environmentalists optimistic.",
+      "title": "ENERGY PROJECT"
+    }
+  },
+  "quest_LocKey#79474": {
+    "default": {
+      "msg": "NCPD warns of dangerous new synthetic drug circulating. Several overdoses reported.",
+      "title": "DRUG OVERDOSE SPIKE"
+    },
+    "choice": {
+      "msg": "Celebrity chef hospitalized after apparent poisoning. Restaurant closed.",
+      "title": "CHEF POISONING"
+    }
+  },
+  "quest_LocKey#12793": {
+    "default": {
+      "msg": "Health officials monitor disease outbreak in Watson. Quarantine measures considered.",
+      "title": "DISEASE OUTBREAK"
+    },
+    "choice": {
+      "msg": "Underground rave ends in tragedy after collapse. Emergency services respond.",
+      "title": "RAVE TRAGEDY"
+    }
+  },
+  "quest_LocKey#10108": {
+    "default": {
+      "msg": "Fire engulfs abandoned megabuilding in Pacifica. Casualties reported as firefighters respond.",
+      "title": "MEGABUILDING FIRE"
+    },
+    "choice": {
+      "msg": "Netwatch announces successful operation against hacking collective.",
+      "title": "NETWATCH SUCCESS"
+    }
+  },
+  "quest_LocKey#78215": {
+    "default": {
+      "msg": "Cyberattack targets Night City power infrastructure. Blackouts affect multiple districts.",
+      "title": "POWER GRID ATTACK"
+    },
+    "choice": {
+      "msg": "Prominent fixers discuss mercenary guild formation. Solo community divided.",
+      "title": "GUILD FORMATION"
+    }
+  },
+  "quest_LocKey#10451": {
+    "default": {
+      "msg": "Malfunctioning delivery drone crashes into Japantown marketplace. Minor injuries reported.",
+      "title": "DRONE CRASH"
+    },
+    "choice": {
+      "msg": "Residents fear Combat Zone expanding into neighborhoods. Property values fall.",
+      "title": "COMBAT ZONE EXPANDS"
+    }
+  },
+  "quest_LocKey#11946": {
+    "default": {
+      "msg": "Residents of Watson report strange taste in water. Investigation launched.",
+      "title": "WATER CONTAMINATION"
+    },
+    "choice": {
+      "msg": "Counter-intelligence uncovers corporate espionage ring. Arrests made.",
+      "title": "SPY RING EXPOSED"
+    }
+  },
+  "quest_LocKey#12523": {
+    "default": {
+      "msg": "Gas explosion destroys apartment complex in Santo Domingo. Rescue operations underway.",
+      "title": "GAS EXPLOSION"
+    },
+    "choice": {
+      "msg": "Legendary netrunner announces retirement. New generation takes over.",
+      "title": "LEGEND RETIRES"
+    }
+  },
+  "quest_LocKey#12411": {
+    "default": {
+      "msg": "Construction site accident kills multiple workers. Safety violations investigated.",
+      "title": "CONSTRUCTION ACCIDENT"
+    },
+    "choice": {
+      "msg": "Night City mercenary community holds memorial for fallen. Afterlife hosts gathering.",
+      "title": "MEMORIAL SERVICE"
+    }
+  },
+  "quest_LocKey#18655": {
+    "default": {
+      "msg": "Transit workers union threatens strike action. Service disruptions expected.",
+      "title": "TRANSIT STRIKE"
+    },
+    "choice": {
+      "msg": "All Foods reports temporary shortage of synthetic meat. Prices expected to rise.",
+      "title": "SYNTHETIC MEAT SHORTAGE"
+    }
+  },
+  "quest_LocKey#10244": {
+    "default": {
+      "msg": "Dock workers union strike paralyzes Night City shipping. Shortages expected.",
+      "title": "DOCK WORKERS STRIKE"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents. Management faces complaints.",
+      "title": "ELEVATOR FAILURE"
+    }
+  },
+  "quest_LocKey#51750": {
+    "default": {
+      "msg": "Food distribution center overrun by desperate residents. Riot control deployed.",
+      "title": "FOOD DISTRIBUTION RIOT"
+    },
+    "choice": {
+      "msg": "Joytoy workers union demands increased protection and benefits. Negotiations ongoing.",
+      "title": "JOYTOY DEMANDS"
+    }
+  },
+  "quest_LocKey#12760": {
+    "default": {
+      "msg": "Air quality index reaches hazardous levels. Residents advised to remain indoors.",
+      "title": "SMOG ALERT ISSUED"
+    },
+    "choice": {
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble.",
+      "title": "SHARD LEAK"
+    }
+  },
+  "quest_LocKey#13092": {
+    "default": {
+      "msg": "Major corporation acquires promising Night City tech startup. Price undisclosed.",
+      "title": "STARTUP ACQUIRED"
+    },
+    "choice": {
+      "msg": "Annual Night City Marathon ends in tragedy during cyberpsycho attack.",
+      "title": "MARATHON TRAGEDY"
+    }
+  },
+  "quest_LocKey#13012": {
+    "default": {
+      "msg": "Significant technology patent filed that could reshape industry. Companies watching closely.",
+      "title": "PATENT FILED"
+    },
+    "choice": {
+      "msg": "High-ranking executive kidnapped from convoy. Ransom demands received.",
+      "title": "EXEC KIDNAPPING"
+    }
+  },
+  "quest_LocKey#11976": {
+    "default": {
+      "msg": "Company issues recall for products due to safety concerns. Customers urged to return items.",
+      "title": "PRODUCT RECALL"
+    },
+    "choice": {
+      "msg": "NCPD identifies underground netrunner collective in Pacifica. Warrants issued.",
+      "title": "COLLECTIVE IDENTIFIED"
+    }
+  },
+  "quest_LocKey#12258": {
+    "default": {
+      "msg": "Major corporation announces significant workforce reduction. Thousands face uncertainty.",
+      "title": "LAYOFFS ANNOUNCED"
+    },
+    "choice": {
+      "msg": "Construction workers discover massive illegal weapons cache. Origin unknown.",
+      "title": "WEAPONS CACHE"
+    }
+  },
+  "quest_LocKey#12752": {
+    "default": {
+      "msg": "Corporation announces plans to expand operations into new markets. Growth expected.",
+      "title": "EXPANSION PLANNED"
+    },
+    "choice": {
+      "msg": "Celebrity chef opens high-end restaurant in Corpo Plaza. Reservations booked.",
+      "title": "RESTAURANT OPENS"
+    }
+  },
+  "quest_LocKey#12625": {
+    "default": {
+      "msg": "Major legal dispute settled out of court. Terms of agreement remain confidential.",
+      "title": "LEGAL SETTLEMENT"
+    },
+    "choice": {
+      "msg": "Private military company faces war crimes allegations. Stock plummets.",
+      "title": "PRIVATE MILITARY SCANDAL"
+    }
+  },
+  "quest_LocKey#18014": {
+    "default": {
+      "msg": "Corporate whistleblower seeks protection after exposing practices. Investigation opens.",
+      "title": "WHISTLEBLOWER CASE"
+    },
+    "choice": {
+      "msg": "Bitter corporate divorce settlement reveals hidden fortunes.",
+      "title": "DIVORCE SETTLEMENT"
+    }
+  },
+  "quest_LocKey#12180": {
+    "default": {
+      "msg": "High-profile industrial espionage trial begins. Billions in damages sought.",
+      "title": "ESPIONAGE TRIAL"
+    },
+    "choice": {
+      "msg": "Exotic animal escapes Night City private zoo. Tranquilizer teams deployed.",
+      "title": "ZOO ESCAPE"
+    }
+  },
+  "quest_LocKey#8631": {
+    "default": {
+      "msg": "Major cryptocurrency crashes overnight. Investors suffer significant losses.",
+      "title": "CRYPTO CRASH"
+    },
+    "choice": {
+      "msg": "Arasaka Corporation announces state-of-the-art security measures. New Soulkiller countermeasures and Netrunner detection systems now operational.",
+      "title": "ARASAKA TOWER SECURITY UPGRADED"
+    }
+  },
+  "quest_LocKey#18707": {
+    "default": {
+      "msg": "Major investment announced in infrastructure projects. Economic boost expected.",
+      "title": "INVESTMENT SURGE"
+    },
+    "choice": {
+      "msg": "Militech demonstrates the Basilisk hover tank at proving grounds. NUSA military officials express strong interest in the weapons platform.",
+      "title": "MILITECH BASILISK DEMONSTRATION"
+    }
+  },
+  "quest_LocKey#79471": {
+    "default": {
+      "msg": "Night City councilman arrested on corruption charges. Kickback scheme exposed.",
+      "title": "COUNCIL CORRUPTION"
+    },
+    "choice": {
+      "msg": "Biotechnica announces genetic modification breakthrough increasing CHOOH2 fuel wheat yields by 40 percent. Energy markets respond positively.",
+      "title": "BIOTECHNICA FUEL BREAKTHROUGH"
+    }
+  },
+  "quest_LocKey#12720": {
+    "default": {
+      "msg": "Night City council debates new regulations on genetic modification services.",
+      "title": "REGULATION DEBATE"
+    },
+    "choice": {
+      "msg": "Trauma Team International reports fastest response times in company history. New AV-4 medical vehicles credited for improvement.",
+      "title": "TRAUMA TEAM RESPONSE RECORD"
+    }
+  },
+  "quest_LocKey#12867": {
+    "default": {
+      "msg": "NUSA border forces increase immigration enforcement. Nomad clans affected.",
+      "title": "BORDER CRACKDOWN"
+    },
+    "choice": {
+      "msg": "Kang Tao secures major smart weapons contract with NUSA defense forces. Analysts predict strong quarterly earnings.",
+      "title": "KANG TAO CONTRACT SECURED"
+    }
+  },
+  "quest_LocKey#79480": {
+    "default": {
+      "msg": "Residents debate rise of vigilante justice as NCPD resources strain.",
+      "title": "VIGILANTE DEBATE"
+    },
+    "choice": {
+      "msg": "Explosion at Petrochem refinery in Santo Domingo contained by emergency responders. Investigation into cause underway.",
+      "title": "PETROCHEM REFINERY INCIDENT"
+    }
+  },
+  "quest_LocKey#12691": {
+    "default": {
+      "msg": "Night City Transit Authority faces significant budget cuts. Service reductions expected.",
+      "title": "BUDGET CUTS"
+    },
+    "choice": {
+      "msg": "Orbital Air announces new suborbital routes connecting Night City to European hubs. Travel time reduced significantly.",
+      "title": "ORBITAL AIR ROUTE EXPANSION"
+    }
+  },
+  "quest_LocKey#10170": {
+    "default": {
+      "msg": "NUSA designates Dogtown as restricted military zone. Unauthorized entry prohibited.",
+      "title": "DOGTOWN LOCKDOWN"
+    },
+    "choice": {
+      "msg": "Zetatech unveils revolutionary quantum processing chip for high-end cyberdecks. Netrunners anticipate performance breakthrough.",
+      "title": "ZETATECH CYBERDECK LAUNCH"
+    }
+  },
+  "quest_LocKey#12709": {
+    "default": {
+      "msg": "Sources inside Dogtown report increased control measures. Residents face strict curfews.",
+      "title": "HANSEN CONTROL"
+    },
+    "choice": {
+      "msg": "Kiroshi releases critical firmware update for optical implants. Users advised to visit licensed ripperdocs immediately.",
+      "title": "KIROSHI OPTICS UPDATE"
+    }
+  },
+  "quest_LocKey#12730": {
+    "default": {
+      "msg": "Netwatch reports unusual activity patterns at Blackwall barriers. Protocols initiated.",
+      "title": "BLACKWALL ANOMALY"
+    },
+    "choice": {
+      "msg": "Multiple reports of erratic Delamain cab behavior across Night City. Company assures customers issues are being resolved.",
+      "title": "DELAMAIN SERVICE ALERT"
+    }
+  },
+  "quest_LocKey#9993": {
+    "default": {
+      "msg": "Black market operations intensify in abandoned stadium district. Security concerns grow.",
+      "title": "STADIUM OPERATIONS"
+    },
+    "choice": {
+      "msg": "NCPD MaxTac raids Maelstrom gang headquarters in All Foods plant. Multiple arrests made, cyberware lab discovered.",
+      "title": "MAELSTROM RAID IN WATSON"
+    }
+  },
+  "quest_LocKey#22087": {
+    "default": {
+      "msg": "Daring art heist from prestigious Night City gallery. Priceless works stolen overnight.",
+      "title": "ART HEIST"
+    },
+    "choice": {
+      "msg": "Tyger Claws expand territory in Westbrook Japantown. Rival gangs responding with increased patrols.",
+      "title": "TYGER CLAWS EXPANSION"
+    }
+  },
+  "quest_LocKey#18620": {
+    "default": {
+      "msg": "Prominent gang leader assassinated in broad daylight. Power struggle expected.",
+      "title": "GANG LEADER KILLED"
+    },
+    "choice": {
+      "msg": "Valentinos solidify control over key Heywood territories. Local businesses report increased protection demands.",
+      "title": "VALENTINOS HEYWOOD CONTROL"
+    }
+  },
+  "quest_LocKey#18644": {
+    "default": {
+      "msg": "Rare pre-collapse automobile sells for record price. Collectors compete fiercely.",
+      "title": "LUXURY CAR AUCTION"
+    },
+    "choice": {
+      "msg": "NCPD raids Animals gang headquarters in Pacifica. Synthetic steroid laboratory discovered and dismantled.",
+      "title": "ANIMALS GYM SHUTDOWN"
+    }
+  },
+  "quest_LocKey#12672": {
+    "default": {
+      "msg": "NCPD raids high-stakes underground casino. Prominent citizens among detained.",
+      "title": "UNDERGROUND CASINO"
+    },
+    "choice": {
+      "msg": "Netwatch reports intercepted Voodoo Boys attempt to contact entities beyond the Blackwall. High alert issued.",
+      "title": "VOODOO BOYS BLACKWALL PROBE"
+    }
+  },
+  "quest_LocKey#12164": {
+    "default": {
+      "msg": "Major talent agency accused of exploiting performers. Investigation launched.",
+      "title": "TALENT SCANDAL"
+    },
+    "choice": {
+      "msg": "6th Street gang hosts veterans gathering in Santo Domingo. NCPD maintains watchful distance as members assemble.",
+      "title": "6TH STREET GATHERING"
+    }
+  },
+  "quest_LocKey#10019": {
+    "default": {
+      "msg": "Annual corporate charity gala raises record funds. Critics question authenticity.",
+      "title": "CHARITY GALA"
+    },
+    "choice": {
+      "msg": "NCPD cybercrimes unit dismantles major Scavenger organ harvesting operation. Dozens of victims recovered.",
+      "title": "SCAVENGER DEN RAIDED"
+    }
+  },
+  "quest_LocKey#18652": {
+    "default": {
+      "msg": "Controversial weather control experiment conducted. Environmental impact debated.",
+      "title": "WEATHER EXPERIMENT"
+    },
+    "choice": {
+      "msg": "The Mox successfully repel hostile takeover attempt at Lizzie Bar. Gang solidarity praised by community.",
+      "title": "MOX DEFEND TERRITORY"
+    }
+  },
+  "quest_LocKey#12437": {
+    "default": {
+      "msg": "Controversial demolition of historic building proceeds despite protests.",
+      "title": "HISTORIC DEMOLITION"
+    },
+    "choice": {
+      "msg": "Nomad sources report Wraith raider convoy ambushed in the Badlands. No group claims responsibility.",
+      "title": "WRAITH CONVOY AMBUSH"
+    }
+  },
+  "quest_LocKey#12942": {
+    "default": {
+      "msg": "Construction crew discovers pre-collapse underground bunker. Artifacts recovered.",
+      "title": "BUNKER DISCOVERED"
+    },
+    "choice": {
+      "msg": "Violence escalates between rival gangs in contested territories. NCPD struggles to maintain order.",
+      "title": "GANG WAR ESCALATION"
+    }
+  },
+  "quest_LocKey#10273": {
+    "default": {
+      "msg": "Young street kid displays extraordinary netrunning abilities. Corps compete for recruitment.",
+      "title": "PRODIGY DISCOVERED"
+    },
+    "choice": {
+      "msg": "MaxTac squad neutralizes dangerous cyberpsycho in Kabuki marketplace. Three officers injured in operation.",
+      "title": "CYBERPSYCHO NEUTRALIZED"
+    }
+  },
+  "quest_LocKey#11990": {
+    "default": {
+      "msg": "NCPD raids illegal human cloning facility. Ethical implications spark outrage.",
+      "title": "CLONING FACILITY"
+    },
+    "choice": {
+      "msg": "NCPD deploys new body scanner checkpoints at major transit hubs. Privacy advocates protest surveillance.",
+      "title": "NCPD SCANNER DEPLOYMENT"
+    }
+  },
+  "quest_LocKey#77679": {
+    "default": {
+      "msg": "Smart weapon targeting malfunction causes deaths. Manufacturer faces lawsuit.",
+      "title": "WEAPON MALFUNCTION"
+    },
+    "choice": {
+      "msg": "Night City council approves significant budget increase for NCPD operations. New hiring wave expected.",
+      "title": "NCPD BUDGET APPROVED"
+    }
+  },
+  "quest_LocKey#1625": {
+    "default": {
+      "msg": "Famous celebrity bodyguard implicated in smuggling. Court date set.",
+      "title": "BODYGUARD SCANDAL"
+    },
+    "choice": {
+      "msg": "Internal Affairs opens investigation into corruption at NCPD South Night City precinct.",
+      "title": "NCPD CORRUPTION PROBE"
+    }
+  },
+  "quest_LocKey#9469": {
+    "default": {
+      "msg": "Security researchers demonstrate vulnerability in neural implants. Patch rushed.",
+      "title": "NEURAL HACK RISK"
+    },
+    "choice": {
+      "msg": "MaxTac successfully contains cyberpsychosis outbreak in Watson district. Casualties minimal.",
+      "title": "MAXTAC OPERATION SUCCESS"
+    }
+  },
+  "quest_LocKey#18617": {
+    "default": {
+      "msg": "Investigative journalists expose illegal toxic waste dumping. Corporate involvement suspected.",
+      "title": "TOXIC DUMPING"
+    },
+    "choice": {
+      "msg": "Eurodollar strengthens against NUSA dollar following positive economic indicators. Markets adjust accordingly.",
+      "title": "EURODOLLAR STRENGTHENS"
+    }
+  },
+  "quest_LocKey#12130": {
+    "default": {
+      "msg": "Critical organ shortage forces hospitals to make difficult decisions.",
+      "title": "ORGAN SHORTAGE"
+    },
+    "choice": {
+      "msg": "Night City Stock Exchange reports record trading volume. Analysts attribute surge to corporate activity.",
+      "title": "STOCK EXCHANGE RECORD"
+    }
+  },
+  "quest_LocKey#10342": {
+    "default": {
+      "msg": "Major cyberware manufacturer recalls limbs due to defect. Users urged to respond.",
+      "title": "IMPLANT RECALL"
+    },
+    "choice": {
+      "msg": "Foreclosure rates in Night City megabuildings reach five-year high. Housing advocates demand intervention.",
+      "title": "MEGABUILDING CRISIS"
+    }
+  },
+  "quest_LocKey#20285": {
+    "default": {
+      "msg": "Prominent ripperdoc loses license following botched surgery. Patient files suit.",
+      "title": "LICENSE REVOKED"
+    },
+    "choice": {
+      "msg": "Rumors of merger negotiations between major corporations spark market speculation.",
+      "title": "CORPORATE MERGER TALKS"
+    }
+  },
+  "quest_LocKey#83940": {
+    "default": {
+      "msg": "Rival gangs enter delicate truce negotiations. Fixers mediate discussions.",
+      "title": "TRUCE NEGOTIATIONS"
+    },
+    "choice": {
+      "msg": "Major corporation reports earnings exceeding analyst expectations. Stock price surges on news.",
+      "title": "QUARTERLY EARNINGS BEAT"
+    }
+  },
+  "quest_LocKey#11960": {
+    "default": {
+      "msg": "Trauma Team AV held hostage during extraction. Negotiators work to resolve.",
+      "title": "HOSTAGE STANDOFF"
+    },
+    "choice": {
+      "msg": "NCART metro service suspended between Watson and City Center. Track maintenance emergency declared.",
+      "title": "NCART DISRUPTION"
+    }
+  },
+  "quest_LocKey#10319": {
+    "default": {
+      "msg": "Explosion destroys luxury yacht in harbor. Corporate executive among casualties.",
+      "title": "YACHT EXPLOSION"
+    },
+    "choice": {
+      "msg": "Pacifica district reconstruction efforts stall as contractors cite security concerns.",
+      "title": "PACIFICA RECONSTRUCTION"
+    }
+  },
+  "quest_LocKey#8626": {
+    "default": {
+      "msg": "Underground street racing championship crowns new champion. Record prize awarded.",
+      "title": "RACING CHAMPION"
+    },
+    "choice": {
+      "msg": "Night City Power Authority completes Watson district power grid modernization.",
+      "title": "WATSON POWER UPGRADE"
+    }
+  },
+  "quest_LocKey#12651": {
+    "default": {
+      "msg": "Prototype military weapon stolen from secure facility. Massive reward offered.",
+      "title": "PROTOTYPE THEFT"
+    },
+    "choice": {
+      "msg": "Residents protest rapid gentrification in Glen neighborhood. Developers promise affordable units.",
+      "title": "HEYWOOD PROTESTS"
+    }
+  },
+  "quest_LocKey#40375": {
+    "default": {
+      "msg": "Anonymous hacker collective releases manifesto threatening targets.",
+      "title": "HACKER MANIFESTO"
+    },
+    "choice": {
+      "msg": "Nomad clans and corporate interests clash over Badlands water rights. NUSA mediators intervene.",
+      "title": "BADLANDS WATER DISPUTE"
+    }
+  },
+  "quest_LocKey#10005": {
+    "default": {
+      "msg": "Night City Fashion Week disrupted by protest action. Shows rescheduled.",
+      "title": "FASHION WEEK CHAOS"
+    },
+    "choice": {
+      "msg": "Night City council considers restrictions on military-grade Sandevistan implants following fatalities.",
+      "title": "SANDEVISTAN RESTRICTIONS"
+    }
+  },
+  "quest_LocKey#79483": {
+    "default": {
+      "msg": "Underground theater scene thrives despite corporate entertainment dominance.",
+      "title": "THEATER THRIVES"
+    },
+    "choice": {
+      "msg": "Underground fighting circuits featuring gorilla arms gain popularity. NCPD struggles to shut venues.",
+      "title": "GORILLA ARMS FIGHTS"
+    }
+  },
+  "quest_LocKey#10066": {
+    "default": {
+      "msg": "Vintage pre-collapse music experiences revival among youth. Record sales surge.",
+      "title": "MUSIC REVIVAL"
+    },
+    "choice": {
+      "msg": "Emergency rooms report surge in Mantis Blade-related accidents. Ripperdocs urge proper training.",
+      "title": "MANTIS BLADE ACCIDENTS"
+    }
+  },
+  "quest_LocKey#12913": {
+    "default": {
+      "msg": "Annual street food festival draws thousands. Culinary diversity celebrated.",
+      "title": "FOOD FESTIVAL"
+    },
+    "choice": {
+      "msg": "New braindance addiction treatment centers opening. Health officials warn of growing BD dependency.",
+      "title": "BRAINDANCE ADDICTION"
+    }
+  },
+  "quest_LocKey#20300": {
+    "default": {
+      "msg": "Abandoned mall transformed into community housing. Urban renewal praised.",
+      "title": "MALL TRANSFORMATION"
+    },
+    "choice": {
+      "msg": "Medical researchers identify syndrome affecting professional netrunners. ICE exposure linked to damage.",
+      "title": "NETRUNNER BURNOUT"
+    }
+  },
+  "quest_LocKey#13003": {
+    "default": {
+      "msg": "Corporate heir hosts scandalous party caught on video. Family reputation damaged.",
+      "title": "CORPORATE PARTY SCANDAL"
+    },
+    "choice": {
+      "msg": "Legendary rockerband Us Cracks announces surprise concert at Afterlife. Tickets sold out instantly.",
+      "title": "US CRACKS CONCERT"
+    }
+  },
+  "quest_LocKey#9971": {
+    "default": {
+      "msg": "Underground cyberware fighting league gains attention. Regulators consider action.",
+      "title": "FIGHTING LEAGUE"
+    },
+    "choice": {
+      "msg": "NCPD seizes massive illegal XBD braindance production facility. Victims rescued from recording site.",
+      "title": "XBD PRODUCTION BUST"
+    }
+  },
+  "quest_LocKey#27951": {
+    "default": {
+      "msg": "Potential bioweapon threat in water supply averted. Authorities assure safety.",
+      "title": "BIOWEAPON AVERTED"
+    },
+    "choice": {
+      "msg": "Rumors circulate about possible Samurai band reunion tour. Representatives decline to comment.",
+      "title": "SAMURAI REUNION RUMORS"
+    }
+  },
+  "quest_LocKey#12100": {
+    "default": {
+      "msg": "Structural engineers raise concerns about megabuilding safety. Inspections ordered.",
+      "title": "BUILDING COLLAPSE FEARS"
+    },
+    "choice": {
+      "msg": "Lizzie Bar celebrates anniversary with special performances. The Mox-owned venue thriving.",
+      "title": "LIZZIE BAR ANNIVERSARY"
+    }
+  },
+  "quest_LocKey#9860": {
+    "default": {
+      "msg": "Security drone swarm malfunctions in Corpo Plaza. Injuries reported.",
+      "title": "DRONE MALFUNCTION"
+    },
+    "choice": {
+      "msg": "Famous braindance star hospitalized after overdose at Clouds. Representatives request privacy.",
+      "title": "CELEBRITY BD OVERDOSE"
+    }
+  },
+  "quest_LocKey#20303": {
+    "default": {
+      "msg": "Pirate radio station briefly takes over frequency. Anti-corporate message broadcast.",
+      "title": "PIRATE RADIO"
+    },
+    "choice": {
+      "msg": "Large Aldecaldos nomad caravan spotted near Night City borders. Authorities monitor for activity.",
+      "title": "ALDECALDOS SPOTTED"
+    }
+  },
+  "quest_LocKey#18709": {
+    "default": {
+      "msg": "Health officials warn of virtual reality addiction epidemic. Treatment centers surge.",
+      "title": "VR ADDICTION"
+    },
+    "choice": {
+      "msg": "Major nomad trading clans adjust routes due to Wraith activity. Supply disruptions expected.",
+      "title": "NOMAD ROUTES SHIFT"
+    }
+  },
+  "quest_LocKey#12204": {
+    "default": {
+      "msg": "Regulatory authorities block major corporate merger. Anti-monopoly concerns cited.",
+      "title": "MERGER BLOCKED"
+    },
+    "choice": {
+      "msg": "Firefight between nomad clans and raiders in Badlands leaves multiple casualties.",
+      "title": "BADLANDS SKIRMISH"
+    }
+  },
+  "quest_LocKey#12380": {
+    "default": {
+      "msg": "Provocative street art in Japantown sparks controversy. Artist unknown.",
+      "title": "STREET ART CONTROVERSY"
+    },
+    "choice": {
+      "msg": "NCPD shuts down unlicensed ripperdoc clinic in Watson. Poorly installed implants documented.",
+      "title": "RIPPERDOC SHUTDOWN"
+    }
+  },
+  "quest_LocKey#12359": {
+    "default": {
+      "msg": "Protests erupt following alleged NCPD brutality incident. Officials call for calm.",
+      "title": "BRUTALITY PROTESTS"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility.",
+      "title": "CORPO PLAZA BOMB"
+    }
+  },
+  "quest_LocKey#12274": {
+    "default": {
+      "msg": "Alarming cluster of missing persons cases in Heywood. Families demand investigation.",
+      "title": "MISSING PERSONS"
+    },
+    "choice": {
+      "msg": "Prominent Night City fixer found dead in Heywood apartment. Mercenary community on alert.",
+      "title": "FIXER ASSASSINATION"
+    }
+  },
+  "quest_LocKey#18708": {
+    "default": {
+      "msg": "Corporate tower evacuated following bomb threat. All clear given.",
+      "title": "TOWER EVACUATION"
+    },
+    "choice": {
+      "msg": "NCPD announces crackdown on illegal street racing circuits. Multiple arrests in Arroyo.",
+      "title": "STREET RACING BUST"
+    }
+  },
+  "quest_LocKey#12781": {
+    "default": {
+      "msg": "Renowned tech genius disappears mysteriously. Foul play suspected.",
+      "title": "TECH DISAPPEARANCE"
+    },
+    "choice": {
+      "msg": "Major black market cyberware ring dismantled. Military-grade implants recovered.",
+      "title": "CYBERWARE BUST"
+    }
+  },
+  "stockInvest": {
+    "default": {
+      "msg": "A major infrastructure project has received approval from Night City authorities. Companies involved in construction may benefit.",
+      "title": "INFRASTRUCTURE PROJECT APPROVED"
+    },
+    "choice": {
+      "msg": "Air quality index reaches hazardous levels across Night City. Residents advised to remain indoors or wear filtration masks.",
+      "title": "NIGHT CITY SMOG ALERT"
+    }
+  },
+  "quest_LocKey#12976": {
+    "default": {
+      "msg": "Experimental drug trial halted after severe side effects. Participants seek damages.",
+      "title": "DRUG TRIAL HALTED"
+    },
+    "choice": {
+      "msg": "Special forces rescue kidnapped corporate executive from hostage situation.",
+      "title": "KIDNAPPING RESCUE"
+    }
+  },
+  "quest_LocKey#10358": {
+    "default": {
+      "msg": "NCPD cracks down on unlicensed street vendors. Small business owners protest.",
+      "title": "VENDOR CRACKDOWN"
+    },
+    "choice": {
+      "msg": "Shooting at popular nightclub leaves multiple casualties. Gang involvement suspected.",
+      "title": "SHOOTING AT CLUB"
+    }
+  },
+  "quest_LocKey#12093": {
+    "default": {
+      "msg": "Reclusive fixer grants rare media interview. Mercenary trade insights revealed.",
+      "title": "FIXER INTERVIEW"
+    },
+    "choice": {
+      "msg": "Researchers announce promising clinical trials for cyberpsychosis treatment. Patients hopeful.",
+      "title": "CYBERPSYCHOSIS TRIALS"
+    }
+  },
+  "quest_LocKey#10474": {
+    "default": {
+      "msg": "Scientists announce breakthrough in synthetic food production. Improvements claimed.",
+      "title": "SYNTHETIC FOOD"
+    },
+    "choice": {
+      "msg": "Medical researchers report increase in implant rejection cases. Protocols being updated.",
+      "title": "IMPLANT REJECTION RISE"
+    }
+  },
+  "quest_LocKey#18648": {
+    "default": {
+      "msg": "Luxury underground bunker listed amid doomsday fears. Ultra-wealthy show interest.",
+      "title": "BUNKER SALE"
+    },
+    "choice": {
+      "msg": "Hospitals report critical shortage of synthetic organs. Black market prices surge.",
+      "title": "SYNTHETIC ORGAN CRISIS"
+    }
+  },
+  "quest_LocKey#15038": {
+    "default": {
+      "msg": "Night City observes Veterans Day with memorial ceremonies. Corporate war veterans honored.",
+      "title": "VETERANS DAY"
+    },
+    "choice": {
+      "msg": "NCPD warns of dangerous new synthetic drug circulating. Several overdoses reported.",
+      "title": "DRUG OVERDOSE SPIKE"
+    }
+  },
+  "quest_LocKey#9461": {
+    "default": {
+      "msg": "Major investment announced in renewable energy projects. Environmentalists optimistic.",
+      "title": "ENERGY PROJECT"
+    },
+    "choice": {
+      "msg": "Health officials monitor disease outbreak in Watson. Quarantine measures considered.",
+      "title": "DISEASE OUTBREAK"
+    }
+  },
+  "quest_LocKey#8633": {
+    "default": {
+      "msg": "Celebrity chef hospitalized after apparent poisoning. Restaurant closed.",
+      "title": "CHEF POISONING"
+    },
+    "choice": {
+      "msg": "Fire engulfs abandoned megabuilding in Pacifica. Casualties reported as firefighters respond.",
+      "title": "MEGABUILDING FIRE"
+    }
+  },
+  "quest_LocKey#80434": {
+    "default": {
+      "msg": "Underground rave ends in tragedy after collapse. Emergency services respond.",
+      "title": "RAVE TRAGEDY"
+    },
+    "choice": {
+      "msg": "Cyberattack targets Night City power infrastructure. Blackouts affect multiple districts.",
+      "title": "POWER GRID ATTACK"
+    }
+  },
+  "quest_LocKey#10213": {
+    "default": {
+      "msg": "Netwatch announces successful operation against hacking collective.",
+      "title": "NETWATCH SUCCESS"
+    },
+    "choice": {
+      "msg": "Malfunctioning delivery drone crashes into Japantown marketplace. Minor injuries reported.",
+      "title": "DRONE CRASH"
+    }
+  },
+  "quest_LocKey#8630": {
+    "default": {
+      "msg": "Prominent fixers discuss mercenary guild formation. Solo community divided.",
+      "title": "GUILD FORMATION"
+    },
+    "choice": {
+      "msg": "Residents of Watson report strange taste in water. Investigation launched.",
+      "title": "WATER CONTAMINATION"
+    }
+  },
+  "quest_LocKey#12061": {
+    "default": {
+      "msg": "Residents fear Combat Zone expanding into neighborhoods. Property values fall.",
+      "title": "COMBAT ZONE EXPANDS"
+    },
+    "choice": {
+      "msg": "Gas explosion destroys apartment complex in Santo Domingo. Rescue operations underway.",
+      "title": "GAS EXPLOSION"
+    }
+  },
+  "quest_LocKey#50253": {
+    "default": {
+      "msg": "Counter-intelligence uncovers corporate espionage ring. Arrests made.",
+      "title": "SPY RING EXPOSED"
+    },
+    "choice": {
+      "msg": "Construction site accident kills multiple workers. Safety violations investigated.",
+      "title": "CONSTRUCTION ACCIDENT"
+    }
+  },
+  "quest_LocKey#11757": {
+    "default": {
+      "msg": "Legendary netrunner announces retirement. New generation takes over.",
+      "title": "LEGEND RETIRES"
+    },
+    "choice": {
+      "msg": "Transit workers union threatens strike action. Service disruptions expected.",
+      "title": "TRANSIT STRIKE"
+    }
+  },
+  "quest_LocKey#12615": {
+    "default": {
+      "msg": "Night City mercenary community holds memorial for fallen. Afterlife hosts gathering.",
+      "title": "MEMORIAL SERVICE"
+    },
+    "choice": {
+      "msg": "Dock workers union strike paralyzes Night City shipping. Shortages expected.",
+      "title": "DOCK WORKERS STRIKE"
+    }
+  },
+  "quest_LocKey#8628": {
+    "default": {
+      "msg": "All Foods reports temporary shortage of synthetic meat. Prices expected to rise.",
+      "title": "SYNTHETIC MEAT SHORTAGE"
+    },
+    "choice": {
+      "msg": "Food distribution center overrun by desperate residents. Riot control deployed.",
+      "title": "FOOD DISTRIBUTION RIOT"
+    }
+  },
+  "quest_LocKey#12661": {
+    "default": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents. Management faces complaints.",
+      "title": "ELEVATOR FAILURE"
+    },
+    "choice": {
+      "msg": "Air quality index reaches hazardous levels. Residents advised to remain indoors.",
+      "title": "SMOG ALERT ISSUED"
+    }
+  },
+  "quest_LocKey#10461": {
+    "default": {
+      "msg": "Joytoy workers union demands increased protection and benefits. Negotiations ongoing.",
+      "title": "JOYTOY DEMANDS"
+    },
+    "choice": {
+      "msg": "Major corporation acquires promising Night City tech startup. Price undisclosed.",
+      "title": "STARTUP ACQUIRED"
+    }
+  },
+  "quest_LocKey#10475": {
+    "default": {
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble.",
+      "title": "SHARD LEAK"
+    },
+    "choice": {
+      "msg": "Significant technology patent filed that could reshape industry. Companies watching closely.",
+      "title": "PATENT FILED"
+    }
+  },
+  "quest_LocKey#12814": {
+    "default": {
+      "msg": "Annual Night City Marathon ends in tragedy during cyberpsycho attack.",
+      "title": "MARATHON TRAGEDY"
+    },
+    "choice": {
+      "msg": "Company issues recall for products due to safety concerns. Customers urged to return items.",
+      "title": "PRODUCT RECALL"
+    }
+  },
+  "quest_LocKey#12679": {
+    "default": {
+      "msg": "High-ranking executive kidnapped from convoy. Ransom demands received.",
+      "title": "EXEC KIDNAPPING"
+    },
+    "choice": {
+      "msg": "Major corporation announces significant workforce reduction. Thousands face uncertainty.",
+      "title": "LAYOFFS ANNOUNCED"
+    }
+  },
+  "quest_LocKey#12145": {
+    "default": {
+      "msg": "NCPD identifies underground netrunner collective in Pacifica. Warrants issued.",
+      "title": "COLLECTIVE IDENTIFIED"
+    },
+    "choice": {
+      "msg": "Corporation announces plans to expand operations into new markets. Growth expected.",
+      "title": "EXPANSION PLANNED"
+    }
+  },
+  "quest_LocKey#20282": {
+    "default": {
+      "msg": "Construction workers discover massive illegal weapons cache. Origin unknown.",
+      "title": "WEAPONS CACHE"
+    },
+    "choice": {
+      "msg": "Major legal dispute settled out of court. Terms of agreement remain confidential.",
+      "title": "LEGAL SETTLEMENT"
+    }
+  },
+  "quest_LocKey#15806": {
+    "default": {
+      "msg": "Celebrity chef opens high-end restaurant in Corpo Plaza. Reservations booked.",
+      "title": "RESTAURANT OPENS"
+    },
+    "choice": {
+      "msg": "Corporate whistleblower seeks protection after exposing practices. Investigation opens.",
+      "title": "WHISTLEBLOWER CASE"
+    }
+  },
+  "quest_LocKey#10054": {
+    "default": {
+      "msg": "Private military company faces war crimes allegations. Stock plummets.",
+      "title": "PRIVATE MILITARY SCANDAL"
+    },
+    "choice": {
+      "msg": "High-profile industrial espionage trial begins. Billions in damages sought.",
+      "title": "ESPIONAGE TRIAL"
+    }
+  },
+  "quest_LocKey#10058": {
+    "default": {
+      "msg": "Bitter corporate divorce settlement reveals hidden fortunes.",
+      "title": "DIVORCE SETTLEMENT"
+    },
+    "choice": {
+      "msg": "Major cryptocurrency crashes overnight. Investors suffer significant losses.",
+      "title": "CRYPTO CRASH"
+    }
+  },
+  "quest_LocKey#1612": {
+    "default": {
+      "msg": "Exotic animal escapes Night City private zoo. Tranquilizer teams deployed.",
+      "title": "ZOO ESCAPE"
+    },
+    "choice": {
+      "msg": "Major investment announced in infrastructure projects. Economic boost expected.",
+      "title": "INVESTMENT SURGE"
+    }
+  },
+  "quest_LocKey#12839": {
+    "default": {
+      "msg": "Arasaka Corporation announces state-of-the-art security measures. New Soulkiller countermeasures and Netrunner detection systems now operational.",
+      "title": "ARASAKA TOWER SECURITY UPGRADED"
+    },
+    "choice": {
+      "msg": "Night City councilman arrested on corruption charges. Kickback scheme exposed.",
+      "title": "COUNCIL CORRUPTION"
+    }
+  },
+  "quest_LocKey#10330": {
+    "default": {
+      "msg": "Militech demonstrates the Basilisk hover tank at proving grounds. NUSA military officials express strong interest in the weapons platform.",
+      "title": "MILITECH BASILISK DEMONSTRATION"
+    },
+    "choice": {
+      "msg": "Night City council debates new regulations on genetic modification services.",
+      "title": "REGULATION DEBATE"
+    }
+  },
+  "quest_LocKey#10378": {
+    "default": {
+      "msg": "Biotechnica announces genetic modification breakthrough increasing CHOOH2 fuel wheat yields by 40 percent. Energy markets respond positively.",
+      "title": "BIOTECHNICA FUEL BREAKTHROUGH"
+    },
+    "choice": {
+      "msg": "NUSA border forces increase immigration enforcement. Nomad clans affected.",
+      "title": "BORDER CRACKDOWN"
+    }
+  },
+  "quest_LocKey#12906": {
+    "default": {
+      "msg": "Trauma Team International reports fastest response times in company history. New AV-4 medical vehicles credited for improvement.",
+      "title": "TRAUMA TEAM RESPONSE RECORD"
+    },
+    "choice": {
+      "msg": "Residents debate rise of vigilante justice as NCPD resources strain.",
+      "title": "VIGILANTE DEBATE"
+    }
+  },
+  "quest_LocKey#10122": {
+    "default": {
+      "msg": "Kang Tao secures major smart weapons contract with NUSA defense forces. Analysts predict strong quarterly earnings.",
+      "title": "KANG TAO CONTRACT SECURED"
+    },
+    "choice": {
+      "msg": "Night City Transit Authority faces significant budget cuts. Service reductions expected.",
+      "title": "BUDGET CUTS"
+    }
+  },
+  "vehicleUsage": {
+    "default": {
+      "msg": "A major legal dispute has been settled out of court. The terms of the agreement are expected to impact the company's financial outlook.",
+      "title": "LEGAL SETTLEMENT REACHED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "vendingMachine": {
+    "default": {
+      "msg": "Scientists at a corporate research facility have announced a significant breakthrough. Applications could generate new revenue streams.",
+      "title": "RESEARCH BREAKTHROUGH ANNOUNCED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "wantedLevel": {
+    "default": {
+      "msg": "This is a public alert to all citizens of Night City! If you receive this message, you are in close proximity to an active police operation against violent criminals. Seek shelter in buildings! Do not exit until it is clear to do so.",
+      "title": "SHELTER IN PLACE"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "darraKills": {
+    "default": {
+      "msg": "Following the release of the latest sales numbers, Darra Polytechnic have announced their decision to open another assembly line for firearms in Night City, creating a further 1200 new jobs. The factory will assemble popular every day-use weapons such as the ever popular DR-5 Nova Revolver and the brand new DA-8 Umbra assault rifle. The stock market is likely going to react positively to this announcement.",
+      "title": "DARRA POLYTECHNIC EXPANDS"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "qhUsage": {
+    "default": {
+      "msg": "The NCPD urges every citizen to keep the firmware of their implants and augmentations up to date since outdated firmware can be exploited by malicious actors. Security experts warn of several newly discovered flaws in popular Cyberdecks from Tetratronic and Biotech. Users of these products are urged to check for firmware updates.",
+      "title": "SECURITY BREACH DETECTED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "droneAction": {
+    "default": {
+      "msg": "Trading activity has intensified as investors react to breaking developments. Market analysts advise caution during periods of high volatility.",
+      "title": "MARKET VOLATILITY INCREASES"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "quest_LocKey#78507": {
+    "msg": "",
+    "title": ""
+  },
+  "arasakaAction": {
+    "default": {
+      "msg": "A major infrastructure project has received approval from Night City authorities. Companies involved in construction may benefit.",
+      "title": "INFRASTRUCTURE PROJECT APPROVED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "pacificaCrime": {
+    "default": {
+      "msg": "Outside observers and residents have noted a sharp increase in violent crime in Pacifica over the last few weeks. Increased hostilities between the Voodoo Boys and Animals have ended in several shootouts and fights, injuring at least three bystanders. Residents now direct their pleas for help to several security companies to quell the ever-rising violence, since the NCPD is seemingly incapable of doing so.",
+      "title": "PACIFICA'S GANG PROBLEM"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "ncpdKills": {
+    "default": {
+      "msg": "Another police officer of the NCPD was shot and killed only a few hours ago while responding to the scene of a gang shootout. This marks the seventh killed officer this month, only a few days after the deadly Cyberpsycho rampage near Corpo Plaza. The NCPD is under harsh criticism due to chronic under-funding and their unwillingness to provide officers with adequate equipment, an issue the city council is seemingly unwilling to fix.",
+      "title": "OFFICER KILLED IN COLD BLOOD"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "quest_LocKey#12237": {
+    "default": {
+      "msg": "Orbital Air announces new suborbital routes connecting Night City to European hubs. Travel time reduced significantly.",
+      "title": "ORBITAL AIR ROUTE EXPANSION"
+    },
+    "choice": {
+      "msg": "Sources inside Dogtown report increased control measures. Residents face strict curfews.",
+      "title": "HANSEN CONTROL"
+    }
+  },
+  "quest_LocKey#78511": {
+    "msg": "",
+    "title": ""
+  },
+  "foodPurchase": {
+    "default": {
+      "msg": "Changes to trade agreements are affecting import/export operations. Companies with international supply chains are adjusting strategies.",
+      "title": "TRADE AGREEMENT IMPACTS BUSINESS"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "quest_LocKey#22095": {
+    "default": {
+      "msg": "Kiroshi releases critical firmware update for optical implants. Users advised to visit licensed ripperdocs immediately.",
+      "title": "KIROSHI OPTICS UPDATE"
+    },
+    "choice": {
+      "msg": "Black market operations intensify in abandoned stadium district. Security concerns grow.",
+      "title": "STADIUM OPERATIONS"
+    }
+  },
+  "roadRage": {
+    "default": {
+      "msg": "A new report published by the NCPD in cooperation with various analysts shows that the number of fatal accidents in Night City's traffic is still on the rise. Even with the extensive NCart network most people still have to rely on personal transportation. The report concludes with the shocking result of an increase of deadly accidents of 26% over the last few weeks.",
+      "title": "TRAFFIC DEATHS ON THE RISE"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "quest_LocKey#35298": {
+    "default": {
+      "msg": "Multiple reports of erratic Delamain cab behavior across Night City. Company assures customers issues are being resolved.",
+      "title": "DELAMAIN SERVICE ALERT"
+    },
+    "choice": {
+      "msg": "Daring art heist from prestigious Night City gallery. Priceless works stolen overnight.",
+      "title": "ART HEIST"
+    }
+  },
+  "quest_LocKey#1609": {
+    "default": {
+      "msg": "NCPD MaxTac raids Maelstrom gang headquarters in All Foods plant. Multiple arrests made, cyberware lab discovered.",
+      "title": "MAELSTROM RAID IN WATSON"
+    },
+    "choice": {
+      "msg": "Prominent gang leader assassinated in broad daylight. Power struggle expected.",
+      "title": "GANG LEADER KILLED"
+    }
+  },
+  "quadraAction": {
+    "default": {
+      "msg": "Two companies have announced a strategic partnership to develop new products. Synergies could benefit both firms' bottom lines.",
+      "title": "STRATEGIC PARTNERSHIP ANNOUNCED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "richDistrictCrime": {
+    "default": {
+      "msg": "The districts of City Center, North Oak and Charter Hill have begun to experience a harsh increase in gang activities and violent crime over the last few weeks. Several competing gangs seem to have moved into these districts, striking fear into their residents. The NCPD has responded with increased patrols and officer presence as well as random security scans and body searches. The effectiveness of these measures remains to be seen.",
+      "title": "CRIME SURGE IN DOWNTOWN"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "thortonAction": {
+    "default": {
+      "msg": "A major real estate transaction has been completed in Night City. The deal signals continued investment in commercial development.",
+      "title": "REAL ESTATE DEAL CLOSES"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "healsUsed": {
+    "default": {
+      "msg": "A manufacturing company has reached a significant production milestone. Efficiency gains could improve profit margins going forward.",
+      "title": "PRODUCTION MILESTONE ACHIEVED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "smartWeaponKills": {
+    "default": {
+      "msg": "With the falling price of smart weapons (Weapons that use self-maneuvering projectiles) comes a wider spread adoption amongst the less lawful citizens of Night City. According to a spokesperson, the NCPD has noticed a significant rise in deaths by smart weapons. Non smart weapon corporations already call for stricter regulations on those weapons.",
+      "title": "DEADLY INTELLIGENCE"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "tsunamiAction": {
+    "default": {
+      "msg": "A corporation has completed a major upgrade to its cybersecurity infrastructure. The investment aims to prevent future data breaches.",
+      "title": "CYBERSECURITY UPGRADE COMPLETED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "cwPurchase": {
+    "default": {
+      "msg": "New environmental regulations are increasing compliance costs for industrial companies. Some may need to adjust pricing strategies.",
+      "title": "ENVIRONMENTAL COMPLIANCE COSTS RISE"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "cwKills": {
+    "default": {
+      "msg": "In a press conference a few hours ago the NCPD noted the rising use of Cyberware in combat, both in self-defense and illegal use. The NCPD urges the city council to further regulate the purchase of combat Cyberware and to outlaw systems with offensive capabilities.",
+      "title": "CYBERWARE COMBAT USAGE"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "civilianKill": {
+    "default": {
+      "msg": "Once again, a bystander was caught in the line of fire between the NCPD and the violent gangs of Night City. More than a dozen people have fallen victim to shootings or road rage in the last 24 hours alone.",
+      "title": "INNOCENT BYSTANDER KILLED"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "ncpdHustler": {
+    "default": {
+      "msg": "The NCPD revealed in a press conference today that its practice of outsourcing many types of emergency calls to independent contractors has led to a decrease in killed officers as well as to an increase in profits. 30% of active officers have been laid off and a further 20% transferred to a role as independent contractors. The NCPD rejects claims that the usage of contractors leads to more violent encounters or acts of police brutality, alleging instead that the critics of this practice are paid by rivalling security firms.",
+      "title": "POLICE OUTSOURCING A SUCCESS"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents for hours. Building management faces negligence complaints.",
+      "title": "MEGABUILDING ELEVATOR FAILURE"
+    }
+  },
+  "quest_LocKey#80430": {
+    "default": {
+      "msg": "Tyger Claws expand territory in Westbrook Japantown. Rival gangs responding with increased patrols.",
+      "title": "TYGER CLAWS EXPANSION"
+    },
+    "choice": {
+      "msg": "Rare pre-collapse automobile sells for record price. Collectors compete fiercely.",
+      "title": "LUXURY CAR AUCTION"
+    }
+  },
+  "quest_LocKey#20309": {
+    "default": {
+      "msg": "Valentinos solidify control over key Heywood territories. Local businesses report increased protection demands.",
+      "title": "VALENTINOS HEYWOOD CONTROL"
+    },
+    "choice": {
+      "msg": "NCPD raids high-stakes underground casino. Prominent citizens among detained.",
+      "title": "UNDERGROUND CASINO"
+    }
+  },
+  "anyItemPurchase": {
+    "default": {
+      "msg": "A major security incident has been reported involving Night City corporate infrastructure. Investors are monitoring the situation closely for potential market impact.",
+      "title": "SECURITY BREACH IMPACTS MARKETS"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "purchaseVehicleAny": {
+    "default": {
+      "msg": "The latest financial reports of Thorton, but also various other vehicle corporations such as Quadra and Villefort show that more and more people buy their own vehicles. This increase in sales both boosts the economy but also comes with its own share of problems, such as even worse traffic conditions on Night City roads.",
+      "title": "VEHICLE BOOM"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "apUsage": {
+    "default": {
+      "msg": "Public officials urge citizens to update their Access Point security as well as to physically secure their Access points due to a recently discovered security flaw in two of the most popular Access Point Brands. Investigations have revealed that a senior developer at Arasaka leaked blueprints of the security systems to Russian hackers, leading to the discovery of the vulnerability. The developer was found dead in his apartment with apparent heart failure. The investigation is ongoing.",
+      "title": "ACCESS POINTS VULNERABLE"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "quest_LocKey#12315": {
+    "default": {
+      "msg": "NCPD raids Animals gang headquarters in Pacifica. Synthetic steroid laboratory discovered and dismantled.",
+      "title": "ANIMALS GYM SHUTDOWN"
+    },
+    "choice": {
+      "msg": "Major talent agency accused of exploiting performers. Investigation launched.",
+      "title": "TALENT SCANDAL"
+    }
+  },
+  "quest_LocKey#10016": {
+    "default": {
+      "msg": "Netwatch reports intercepted Voodoo Boys attempt to contact entities beyond the Blackwall. High alert issued.",
+      "title": "VOODOO BOYS BLACKWALL PROBE"
+    },
+    "choice": {
+      "msg": "Annual corporate charity gala raises record funds. Critics question authenticity.",
+      "title": "CHARITY GALA"
+    }
+  },
+  "quest_LocKey#10374": {
+    "default": {
+      "msg": "6th Street gang hosts veterans gathering in Santo Domingo. NCPD maintains watchful distance as members assemble.",
+      "title": "6TH STREET GATHERING"
+    },
+    "choice": {
+      "msg": "Controversial weather control experiment conducted. Environmental impact debated.",
+      "title": "WEATHER EXPERIMENT"
+    }
+  },
+  "quest_LocKey#8625": {
+    "default": {
+      "msg": "NCPD cybercrimes unit dismantles major Scavenger organ harvesting operation. Dozens of victims recovered.",
+      "title": "SCAVENGER DEN RAIDED"
+    },
+    "choice": {
+      "msg": "Controversial demolition of historic building proceeds despite protests.",
+      "title": "HISTORIC DEMOLITION"
+    }
+  },
+  "anyItemSold": {
+    "default": {
+      "msg": "A significant technology patent has been filed that could impact multiple sectors. Companies in related fields may see stock price adjustments.",
+      "title": "NEW TECHNOLOGY PATENT FILED"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "quest_LocKey#27794": {
+    "default": {
+      "msg": "The Mox successfully repel hostile takeover attempt at Lizzie Bar. Gang solidarity praised by community.",
+      "title": "MOX DEFEND TERRITORY"
+    },
+    "choice": {
+      "msg": "Construction crew discovers pre-collapse underground bunker. Artifacts recovered.",
+      "title": "BUNKER DISCOVERED"
+    }
+  },
+  "kaukazAction": {
+    "default": {
+      "msg": "A major corporation has announced changes to its executive leadership team. Market watchers are assessing the potential impact on company direction.",
+      "title": "EXECUTIVE LEADERSHIP CHANGE"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "quest_LocKey#13070": {
+    "default": {
+      "msg": "Nomad sources report Wraith raider convoy ambushed in the Badlands. No group claims responsibility.",
+      "title": "WRAITH CONVOY AMBUSH"
+    },
+    "choice": {
+      "msg": "Young street kid displays extraordinary netrunning abilities. Corps compete for recruitment.",
+      "title": "PRODIGY DISCOVERED"
+    }
+  },
+  "quest_LocKey#17856": {
+    "default": {
+      "msg": "Violence escalates between rival gangs in contested territories. NCPD struggles to maintain order.",
+      "title": "GANG WAR ESCALATION"
+    },
+    "choice": {
+      "msg": "NCPD raids illegal human cloning facility. Ethical implications spark outrage.",
+      "title": "CLONING FACILITY"
+    }
+  },
+  "quest_LocKey#11931": {
+    "default": {
+      "msg": "MaxTac squad neutralizes dangerous cyberpsycho in Kabuki marketplace. Three officers injured in operation.",
+      "title": "CYBERPSYCHO NEUTRALIZED"
+    },
+    "choice": {
+      "msg": "Smart weapon targeting malfunction causes deaths. Manufacturer faces lawsuit.",
+      "title": "WEAPON MALFUNCTION"
+    }
+  },
+  "quest_LocKey#12041": {
+    "default": {
+      "msg": "NCPD deploys new body scanner checkpoints at major transit hubs. Privacy advocates protest surveillance.",
+      "title": "NCPD SCANNER DEPLOYMENT"
+    },
+    "choice": {
+      "msg": "Famous celebrity bodyguard implicated in smuggling. Court date set.",
+      "title": "BODYGUARD SCANDAL"
+    }
+  },
+  "quest_LocKey#12107": {
+    "default": {
+      "msg": "Night City council approves significant budget increase for NCPD operations. New hiring wave expected.",
+      "title": "NCPD BUDGET APPROVED"
+    },
+    "choice": {
+      "msg": "Security researchers demonstrate vulnerability in neural implants. Patch rushed.",
+      "title": "NEURAL HACK RISK"
+    }
+  },
+  "quest_LocKey#80806": {
+    "default": {
+      "msg": "Internal Affairs opens investigation into corruption at NCPD South Night City precinct.",
+      "title": "NCPD CORRUPTION PROBE"
+    },
+    "choice": {
+      "msg": "Investigative journalists expose illegal toxic waste dumping. Corporate involvement suspected.",
+      "title": "TOXIC DUMPING"
+    }
+  },
+  "quest_LocKey#12799": {
+    "default": {
+      "msg": "MaxTac successfully contains cyberpsychosis outbreak in Watson district. Casualties minimal.",
+      "title": "MAXTAC OPERATION SUCCESS"
+    },
+    "choice": {
+      "msg": "Critical organ shortage forces hospitals to make difficult decisions.",
+      "title": "ORGAN SHORTAGE"
+    }
+  },
+  "militechAction": {
+    "default": {
+      "msg": "A corporation has announced plans to expand operations into new markets. Investors are optimistic about growth potential.",
+      "title": "EXPANSION PLANS REVEALED"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "quest_LocKey#10476": {
+    "default": {
+      "msg": "Eurodollar strengthens against NUSA dollar following positive economic indicators. Markets adjust accordingly.",
+      "title": "EURODOLLAR STRENGTHENS"
+    },
+    "choice": {
+      "msg": "Major cyberware manufacturer recalls limbs due to defect. Users urged to respond.",
+      "title": "IMPLANT RECALL"
+    }
+  },
+  "quest_LocKey#18643": {
+    "default": {
+      "msg": "Night City Stock Exchange reports record trading volume. Analysts attribute surge to corporate activity.",
+      "title": "STOCK EXCHANGE RECORD"
+    },
+    "choice": {
+      "msg": "Prominent ripperdoc loses license following botched surgery. Patient files suit.",
+      "title": "LICENSE REVOKED"
+    }
+  },
+  "quest_LocKey#12739": {
+    "default": {
+      "msg": "Foreclosure rates in Night City megabuildings reach five-year high. Housing advocates demand intervention.",
+      "title": "MEGABUILDING CRISIS"
+    },
+    "choice": {
+      "msg": "Rival gangs enter delicate truce negotiations. Fixers mediate discussions.",
+      "title": "TRUCE NEGOTIATIONS"
+    }
+  },
+  "rayfieldAction": {
+    "default": {
+      "msg": "Trading activity has intensified as investors react to breaking developments. Market analysts advise caution during periods of high volatility.",
+      "title": "MARKET VOLATILITY INCREASES"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "moneySpent": {
+    "default": {
+      "msg": "Multiple financial consultants and investment corporations, such as Asukaga, recently reported on the state of Night City's economy. The report showed a surprising upwards trend, opposing the predicted decline due to increasing inflation and socio-economic issues.",
+      "title": "ECONOMY STILL GOING STRONG"
+    },
+    "choice": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility for the attempted attack.",
+      "title": "CORPO PLAZA BOMBING AVERTED"
+    }
+  },
+  "quest_LocKey#9991": {
+    "default": {
+      "msg": "Rumors of merger negotiations between major corporations spark market speculation.",
+      "title": "CORPORATE MERGER TALKS"
+    },
+    "choice": {
+      "msg": "Trauma Team AV held hostage during extraction. Negotiators work to resolve.",
+      "title": "HOSTAGE STANDOFF"
+    }
+  },
+  "quest_LocKey#18649": {
+    "default": {
+      "msg": "Major corporation reports earnings exceeding analyst expectations. Stock price surges on news.",
+      "title": "QUARTERLY EARNINGS BEAT"
+    },
+    "choice": {
+      "msg": "Explosion destroys luxury yacht in harbor. Corporate executive among casualties.",
+      "title": "YACHT EXPLOSION"
+    }
+  },
+  "quest_LocKey#10218": {
+    "default": {
+      "msg": "NCART metro service suspended between Watson and City Center. Track maintenance emergency declared.",
+      "title": "NCART DISRUPTION"
+    },
+    "choice": {
+      "msg": "Underground street racing championship crowns new champion. Record prize awarded.",
+      "title": "RACING CHAMPION"
+    }
+  },
+  "quest_LocKey#19144": {
+    "default": {
+      "msg": "Pacifica district reconstruction efforts stall as contractors cite security concerns.",
+      "title": "PACIFICA RECONSTRUCTION"
+    },
+    "choice": {
+      "msg": "Prototype military weapon stolen from secure facility. Massive reward offered.",
+      "title": "PROTOTYPE THEFT"
+    }
+  },
+  "quest_LocKey#11497": {
+    "default": {
+      "msg": "Night City Power Authority completes Watson district power grid modernization.",
+      "title": "WATSON POWER UPGRADE"
+    },
+    "choice": {
+      "msg": "Anonymous hacker collective releases manifesto threatening targets.",
+      "title": "HACKER MANIFESTO"
+    }
+  },
+  "quest_LocKey#9466": {
+    "default": {
+      "msg": "Residents protest rapid gentrification in Glen neighborhood. Developers promise affordable units.",
+      "title": "HEYWOOD PROTESTS"
+    },
+    "choice": {
+      "msg": "Night City Fashion Week disrupted by protest action. Shows rescheduled.",
+      "title": "FASHION WEEK CHAOS"
+    }
+  },
+  "quest_LocKey#18651": {
+    "default": {
+      "msg": "Nomad clans and corporate interests clash over Badlands water rights. NUSA mediators intervene.",
+      "title": "BADLANDS WATER DISPUTE"
+    },
+    "choice": {
+      "msg": "Underground theater scene thrives despite corporate entertainment dominance.",
+      "title": "THEATER THRIVES"
+    }
+  },
+  "quest_LocKey#9468": {
+    "default": {
+      "msg": "Night City council considers restrictions on military-grade Sandevistan implants following fatalities.",
+      "title": "SANDEVISTAN RESTRICTIONS"
+    },
+    "choice": {
+      "msg": "Vintage pre-collapse music experiences revival among youth. Record sales surge.",
+      "title": "MUSIC REVIVAL"
+    }
+  },
+  "quest_LocKey#12465": {
+    "default": {
+      "msg": "Underground fighting circuits featuring gorilla arms gain popularity. NCPD struggles to shut venues.",
+      "title": "GORILLA ARMS FIGHTS"
+    },
+    "choice": {
+      "msg": "Annual street food festival draws thousands. Culinary diversity celebrated.",
+      "title": "FOOD FESTIVAL"
+    }
+  },
+  "quest_LocKey#12954": {
+    "default": {
+      "msg": "Emergency rooms report surge in Mantis Blade-related accidents. Ripperdocs urge proper training.",
+      "title": "MANTIS BLADE ACCIDENTS"
+    },
+    "choice": {
+      "msg": "Abandoned mall transformed into community housing. Urban renewal praised.",
+      "title": "MALL TRANSFORMATION"
+    }
+  },
+  "quest_LocKey#10366": {
+    "default": {
+      "msg": "New braindance addiction treatment centers opening. Health officials warn of growing BD dependency.",
+      "title": "BRAINDANCE ADDICTION"
+    },
+    "choice": {
+      "msg": "Corporate heir hosts scandalous party caught on video. Family reputation damaged.",
+      "title": "CORPORATE PARTY SCANDAL"
+    }
+  },
+  "quest_LocKey#13051": {
+    "default": {
+      "msg": "Medical researchers identify syndrome affecting professional netrunners. ICE exposure linked to damage.",
+      "title": "NETRUNNER BURNOUT"
+    },
+    "choice": {
+      "msg": "Underground cyberware fighting league gains attention. Regulators consider action.",
+      "title": "FIGHTING LEAGUE"
+    }
+  },
+  "quest_LocKey#18646": {
+    "default": {
+      "msg": "Legendary rockerband Us Cracks announces surprise concert at Afterlife. Tickets sold out instantly.",
+      "title": "US CRACKS CONCERT"
+    },
+    "choice": {
+      "msg": "Potential bioweapon threat in water supply averted. Authorities assure safety.",
+      "title": "BIOWEAPON AVERTED"
+    }
+  },
+  "quest_LocKey#12601": {
+    "default": {
+      "msg": "NCPD seizes massive illegal XBD braindance production facility. Victims rescued from recording site.",
+      "title": "XBD PRODUCTION BUST"
+    },
+    "choice": {
+      "msg": "Structural engineers raise concerns about megabuilding safety. Inspections ordered.",
+      "title": "BUILDING COLLAPSE FEARS"
+    }
+  },
+  "quest_LocKey#10188": {
+    "default": {
+      "msg": "Rumors circulate about possible Samurai band reunion tour. Representatives decline to comment.",
+      "title": "SAMURAI REUNION RUMORS"
+    },
+    "choice": {
+      "msg": "Security drone swarm malfunctions in Corpo Plaza. Injuries reported.",
+      "title": "DRONE MALFUNCTION"
+    }
+  },
+  "quest_LocKey#10477": {
+    "default": {
+      "msg": "Lizzie Bar celebrates anniversary with special performances. The Mox-owned venue thriving.",
+      "title": "LIZZIE BAR ANNIVERSARY"
+    },
+    "choice": {
+      "msg": "Pirate radio station briefly takes over frequency. Anti-corporate message broadcast.",
+      "title": "PIRATE RADIO"
+    }
+  },
+  "quest_LocKey#12113": {
+    "default": {
+      "msg": "Famous braindance star hospitalized after overdose at Clouds. Representatives request privacy.",
+      "title": "CELEBRITY BD OVERDOSE"
+    },
+    "choice": {
+      "msg": "Health officials warn of virtual reality addiction epidemic. Treatment centers surge.",
+      "title": "VR ADDICTION"
+    }
+  },
+  "quest_LocKey#12509": {
+    "default": {
+      "msg": "Large Aldecaldos nomad caravan spotted near Night City borders. Authorities monitor for activity.",
+      "title": "ALDECALDOS SPOTTED"
+    },
+    "choice": {
+      "msg": "Regulatory authorities block major corporate merger. Anti-monopoly concerns cited.",
+      "title": "MERGER BLOCKED"
+    }
+  },
+  "quest_LocKey#18645": {
+    "default": {
+      "msg": "Major nomad trading clans adjust routes due to Wraith activity. Supply disruptions expected.",
+      "title": "NOMAD ROUTES SHIFT"
+    },
+    "choice": {
+      "msg": "Provocative street art in Japantown sparks controversy. Artist unknown.",
+      "title": "STREET ART CONTROVERSY"
+    }
+  },
+  "quest_LocKey#13035": {
+    "default": {
+      "msg": "Firefight between nomad clans and raiders in Badlands leaves multiple casualties.",
+      "title": "BADLANDS SKIRMISH"
+    },
+    "choice": {
+      "msg": "Protests erupt following alleged NCPD brutality incident. Officials call for calm.",
+      "title": "BRUTALITY PROTESTS"
+    }
+  },
+  "quest_LocKey#12049": {
+    "default": {
+      "msg": "NCPD shuts down unlicensed ripperdoc clinic in Watson. Poorly installed implants documented.",
+      "title": "RIPPERDOC SHUTDOWN"
+    },
+    "choice": {
+      "msg": "Alarming cluster of missing persons cases in Heywood. Families demand investigation.",
+      "title": "MISSING PERSONS"
+    }
+  },
+  "quest_LocKey#10040": {
+    "default": {
+      "msg": "NCPD bomb squad defuses explosive device in Corpo Plaza. No group claims responsibility.",
+      "title": "CORPO PLAZA BOMB"
+    },
+    "choice": {
+      "msg": "Corporate tower evacuated following bomb threat. All clear given.",
+      "title": "TOWER EVACUATION"
+    }
+  },
+  "quest_LocKey#1620": {
+    "default": {
+      "msg": "Prominent Night City fixer found dead in Heywood apartment. Mercenary community on alert.",
+      "title": "FIXER ASSASSINATION"
+    },
+    "choice": {
+      "msg": "Renowned tech genius disappears mysteriously. Foul play suspected.",
+      "title": "TECH DISAPPEARANCE"
+    }
+  },
+  "quest_LocKey#18637": {
+    "default": {
+      "msg": "NCPD announces crackdown on illegal street racing circuits. Multiple arrests in Arroyo.",
+      "title": "STREET RACING BUST"
+    },
+    "choice": {
+      "msg": "Experimental drug trial halted after severe side effects. Participants seek damages.",
+      "title": "DRUG TRIAL HALTED"
+    }
+  },
+  "quest_LocKey#18622": {
+    "default": {
+      "msg": "Major black market cyberware ring dismantled. Military-grade implants recovered.",
+      "title": "CYBERWARE BUST"
+    },
+    "choice": {
+      "msg": "NCPD cracks down on unlicensed street vendors. Small business owners protest.",
+      "title": "VENDOR CRACKDOWN"
+    }
+  },
+  "quest_LocKey#1616": {
+    "default": {
+      "msg": "Special forces rescue kidnapped corporate executive from hostage situation.",
+      "title": "KIDNAPPING RESCUE"
+    },
+    "choice": {
+      "msg": "Reclusive fixer grants rare media interview. Mercenary trade insights revealed.",
+      "title": "FIXER INTERVIEW"
+    }
+  },
+  "quest_LocKey#11496": {
+    "default": {
+      "msg": "Shooting at popular nightclub leaves multiple casualties. Gang involvement suspected.",
+      "title": "SHOOTING AT CLUB"
+    },
+    "choice": {
+      "msg": "Scientists announce breakthrough in synthetic food production. Improvements claimed.",
+      "title": "SYNTHETIC FOOD"
+    }
+  },
+  "quest_LocKey#12500": {
+    "default": {
+      "msg": "Researchers announce promising clinical trials for cyberpsychosis treatment. Patients hopeful.",
+      "title": "CYBERPSYCHOSIS TRIALS"
+    },
+    "choice": {
+      "msg": "Luxury underground bunker listed amid doomsday fears. Ultra-wealthy show interest.",
+      "title": "BUNKER SALE"
+    }
+  },
+  "quest_LocKey#22078": {
+    "default": {
+      "msg": "Medical researchers report increase in implant rejection cases. Protocols being updated.",
+      "title": "IMPLANT REJECTION RISE"
+    },
+    "choice": {
+      "msg": "Night City observes Veterans Day with memorial ceremonies. Corporate war veterans honored.",
+      "title": "VETERANS DAY"
+    }
+  },
+  "quest_LocKey#9464": {
+    "default": {
+      "msg": "Hospitals report critical shortage of synthetic organs. Black market prices surge.",
+      "title": "SYNTHETIC ORGAN CRISIS"
+    },
+    "choice": {
+      "msg": "Major investment announced in renewable energy projects. Environmentalists optimistic.",
+      "title": "ENERGY PROJECT"
+    }
+  },
+  "quest_LocKey#12476": {
+    "default": {
+      "msg": "NCPD warns of dangerous new synthetic drug circulating. Several overdoses reported.",
+      "title": "DRUG OVERDOSE SPIKE"
+    },
+    "choice": {
+      "msg": "Celebrity chef hospitalized after apparent poisoning. Restaurant closed.",
+      "title": "CHEF POISONING"
+    }
+  },
+  "quest_LocKey#1614": {
+    "default": {
+      "msg": "Health officials monitor disease outbreak in Watson. Quarantine measures considered.",
+      "title": "DISEASE OUTBREAK"
+    },
+    "choice": {
+      "msg": "Underground rave ends in tragedy after collapse. Emergency services respond.",
+      "title": "RAVE TRAGEDY"
+    }
+  },
+  "quest_LocKey#12448": {
+    "default": {
+      "msg": "Fire engulfs abandoned megabuilding in Pacifica. Casualties reported as firefighters respond.",
+      "title": "MEGABUILDING FIRE"
+    },
+    "choice": {
+      "msg": "Netwatch announces successful operation against hacking collective.",
+      "title": "NETWATCH SUCCESS"
+    }
+  },
+  "quest_LocKey#1610": {
+    "default": {
+      "msg": "Cyberattack targets Night City power infrastructure. Blackouts affect multiple districts.",
+      "title": "POWER GRID ATTACK"
+    },
+    "choice": {
+      "msg": "Prominent fixers discuss mercenary guild formation. Solo community divided.",
+      "title": "GUILD FORMATION"
+    }
+  },
+  "quest_LocKey#19321": {
+    "default": {
+      "msg": "Malfunctioning delivery drone crashes into Japantown marketplace. Minor injuries reported.",
+      "title": "DRONE CRASH"
+    },
+    "choice": {
+      "msg": "Residents fear Combat Zone expanding into neighborhoods. Property values fall.",
+      "title": "COMBAT ZONE EXPANDS"
+    }
+  },
+  "quest_LocKey#12544": {
+    "default": {
+      "msg": "Residents of Watson report strange taste in water. Investigation launched.",
+      "title": "WATER CONTAMINATION"
+    },
+    "choice": {
+      "msg": "Counter-intelligence uncovers corporate espionage ring. Arrests made.",
+      "title": "SPY RING EXPOSED"
+    }
+  },
+  "quest_LocKey#9969": {
+    "default": {
+      "msg": "Gas explosion destroys apartment complex in Santo Domingo. Rescue operations underway.",
+      "title": "GAS EXPLOSION"
+    },
+    "choice": {
+      "msg": "Legendary netrunner announces retirement. New generation takes over.",
+      "title": "LEGEND RETIRES"
+    }
+  },
+  "quest_LocKey#10203": {
+    "default": {
+      "msg": "Construction site accident kills multiple workers. Safety violations investigated.",
+      "title": "CONSTRUCTION ACCIDENT"
+    },
+    "choice": {
+      "msg": "Night City mercenary community holds memorial for fallen. Afterlife hosts gathering.",
+      "title": "MEMORIAL SERVICE"
+    }
+  },
+  "quest_LocKey#12640": {
+    "default": {
+      "msg": "Transit workers union threatens strike action. Service disruptions expected.",
+      "title": "TRANSIT STRIKE"
+    },
+    "choice": {
+      "msg": "All Foods reports temporary shortage of synthetic meat. Prices expected to rise.",
+      "title": "SYNTHETIC MEAT SHORTAGE"
+    }
+  },
+  "quest_LocKey#18650": {
+    "default": {
+      "msg": "Dock workers union strike paralyzes Night City shipping. Shortages expected.",
+      "title": "DOCK WORKERS STRIKE"
+    },
+    "choice": {
+      "msg": "Elevator failure in Megabuilding H10 traps residents. Management faces complaints.",
+      "title": "ELEVATOR FAILURE"
+    }
+  },
+  "quest_LocKey#79467": {
+    "default": {
+      "msg": "Food distribution center overrun by desperate residents. Riot control deployed.",
+      "title": "FOOD DISTRIBUTION RIOT"
+    },
+    "choice": {
+      "msg": "Joytoy workers union demands increased protection and benefits. Negotiations ongoing.",
+      "title": "JOYTOY DEMANDS"
+    }
+  },
+  "quest_LocKey#10362": {
+    "default": {
+      "msg": "Air quality index reaches hazardous levels. Residents advised to remain indoors.",
+      "title": "SMOG ALERT ISSUED"
+    },
+    "choice": {
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble.",
+      "title": "SHARD LEAK"
+    }
+  },
+  "quest_LocKey#9462": {
+    "default": {
+      "msg": "Major corporation acquires promising Night City tech startup. Price undisclosed.",
+      "title": "STARTUP ACQUIRED"
+    },
+    "choice": {
+      "msg": "Annual Night City Marathon ends in tragedy during cyberpsycho attack.",
+      "title": "MARATHON TRAGEDY"
+    }
+  },
+  "quest_LocKey#10208": {
+    "default": {
+      "msg": "Significant technology patent filed that could reshape industry. Companies watching closely.",
+      "title": "PATENT FILED"
+    },
+    "choice": {
+      "msg": "High-ranking executive kidnapped from convoy. Ransom demands received.",
+      "title": "EXEC KIDNAPPING"
+    }
+  },
+  "quest_LocKey#18011": {
+    "default": {
+      "msg": "Company issues recall for products due to safety concerns. Customers urged to return items.",
+      "title": "PRODUCT RECALL"
+    },
+    "choice": {
+      "msg": "NCPD identifies underground netrunner collective in Pacifica. Warrants issued.",
+      "title": "COLLECTIVE IDENTIFIED"
+    }
+  },
+  "quest_LocKey#12900": {
+    "default": {
+      "msg": "Major corporation announces significant workforce reduction. Thousands face uncertainty.",
+      "title": "LAYOFFS ANNOUNCED"
+    },
+    "choice": {
+      "msg": "Construction workers discover massive illegal weapons cache. Origin unknown.",
+      "title": "WEAPONS CACHE"
+    }
+  },
+  "quest_LocKey#13100": {
+    "default": {
+      "msg": "Corporation announces plans to expand operations into new markets. Growth expected.",
+      "title": "EXPANSION PLANNED"
+    },
+    "choice": {
+      "msg": "Celebrity chef opens high-end restaurant in Corpo Plaza. Reservations booked.",
+      "title": "RESTAURANT OPENS"
+    }
+  },
+  "quest_LocKey#12933": {
+    "default": {
+      "msg": "Major legal dispute settled out of court. Terms of agreement remain confidential.",
+      "title": "LEGAL SETTLEMENT"
+    },
+    "choice": {
+      "msg": "Private military company faces war crimes allegations. Stock plummets.",
+      "title": "PRIVATE MILITARY SCANDAL"
+    }
+  },
+  "quest_LocKey#10068": {
+    "default": {
+      "msg": "Corporate whistleblower seeks protection after exposing practices. Investigation opens.",
+      "title": "WHISTLEBLOWER CASE"
+    },
+    "choice": {
+      "msg": "Bitter corporate divorce settlement reveals hidden fortunes.",
+      "title": "DIVORCE SETTLEMENT"
+    }
+  },
+  "quest_LocKey#1611": {
+    "default": {
+      "msg": "High-profile industrial espionage trial begins. Billions in damages sought.",
+      "title": "ESPIONAGE TRIAL"
+    },
+    "choice": {
+      "msg": "Exotic animal escapes Night City private zoo. Tranquilizer teams deployed.",
+      "title": "ZOO ESCAPE"
+    }
+  },
+  "quest_LocKey#9865": {
+    "default": {
+      "msg": "Major cryptocurrency crashes overnight. Investors suffer significant losses.",
+      "title": "CRYPTO CRASH"
+    },
+    "choice": {
+      "msg": "Arasaka Corporation announces state-of-the-art security measures. New Soulkiller countermeasures and Netrunner detection systems now operational.",
+      "title": "ARASAKA TOWER SECURITY UPGRADED"
+    }
+  },
+  "quest_LocKey#13059": {
+    "default": {
+      "msg": "Major investment announced in infrastructure projects. Economic boost expected.",
+      "title": "INVESTMENT SURGE"
+    },
+    "choice": {
+      "msg": "Militech demonstrates the Basilisk hover tank at proving grounds. NUSA military officials express strong interest in the weapons platform.",
+      "title": "MILITECH BASILISK DEMONSTRATION"
+    }
+  },
+  "quest_LocKey#12923": {
+    "default": {
+      "msg": "Night City councilman arrested on corruption charges. Kickback scheme exposed.",
+      "title": "COUNCIL CORRUPTION"
+    },
+    "choice": {
+      "msg": "Biotechnica announces genetic modification breakthrough increasing CHOOH2 fuel wheat yields by 40 percent. Energy markets respond positively.",
+      "title": "BIOTECHNICA FUEL BREAKTHROUGH"
+    }
+  },
+  "quest_LocKey#81863": {
+    "choice": {
+      "msg": "Trauma Team International reports fastest response times in company history. New AV-4 medical vehicles credited for improvement.",
+      "title": "TRAUMA TEAM RESPONSE RECORD"
+    },
+    "default": {
+      "msg": "Night City council debates new regulations on genetic modification services.",
+      "title": "REGULATION DEBATE"
+    }
+  },
+  "quest_LocKey#12488": {
+    "default": {
+      "msg": "NUSA border forces increase immigration enforcement. Nomad clans affected.",
+      "title": "BORDER CRACKDOWN"
+    },
+    "choice": {
+      "msg": "Kang Tao secures major smart weapons contract with NUSA defense forces. Analysts predict strong quarterly earnings.",
+      "title": "KANG TAO CONTRACT SECURED"
+    }
+  },
+  "quest_LocKey#8632": {
+    "default": {
+      "msg": "Residents debate rise of vigilante justice as NCPD resources strain.",
+      "title": "VIGILANTE DEBATE"
+    },
+    "choice": {
+      "msg": "Explosion at Petrochem refinery in Santo Domingo contained by emergency responders. Investigation into cause underway.",
+      "title": "PETROCHEM REFINERY INCIDENT"
+    }
+  },
+  "stealCarAny": {
+    "default": {
+      "msg": "New crime statistics released by the NCPD paint a bleak picture of rising car break-ins, especially in poorer neighborhoods. Reports of stolen vehicles are up 31 percent over last year, with an especially sharp increase in the number of stolen high-end vehicles. Only last week two Rayfield Caliburn super cars were broken into in broad daylight in front of the N54 News headquarters. The NCPD is yet to name suspects for this break-in.",
+      "title": "CAR BREAK-INS ON THE RISE"
+    },
+    "choice": {
+      "msg": "Prominent Night City fixer found dead in Heywood apartment. Mercenary community on high alert.",
+      "title": "FIXER ASSASSINATION SENDS SHOCKWAVES"
+    }
+  },
+  "quest_LocKey#17853": {
+    "default": {
+      "msg": "Night City Transit Authority faces significant budget cuts. Service reductions expected.",
+      "title": "BUDGET CUTS"
+    },
+    "choice": {
+      "msg": "Orbital Air announces new suborbital routes connecting Night City to European hubs. Travel time reduced significantly.",
+      "title": "ORBITAL AIR ROUTE EXPANSION"
+    }
+  },
+  "quest_LocKey#50645": {
+    "default": {
+      "msg": "NUSA designates Dogtown as restricted military zone. Unauthorized entry prohibited.",
+      "title": "DOGTOWN LOCKDOWN"
+    },
+    "choice": {
+      "msg": "Zetatech unveils revolutionary quantum processing chip for high-end cyberdecks. Netrunners anticipate performance breakthrough.",
+      "title": "ZETATECH CYBERDECK LAUNCH"
+    }
+  },
+  "quest_LocKey#12967": {
+    "default": {
+      "msg": "Sources inside Dogtown report increased control measures. Residents face strict curfews.",
+      "title": "HANSEN CONTROL"
+    },
+    "choice": {
+      "msg": "Kiroshi releases critical firmware update for optical implants. Users advised to visit licensed ripperdocs immediately.",
+      "title": "KIROSHI OPTICS UPDATE"
+    }
+  },
+  "quest_LocKey#19157": {
+    "default": {
+      "msg": "Netwatch reports unusual activity patterns at Blackwall barriers. Protocols initiated.",
+      "title": "BLACKWALL ANOMALY"
+    },
+    "choice": {
+      "msg": "Multiple reports of erratic Delamain cab behavior across Night City. Company assures customers issues are being resolved.",
+      "title": "DELAMAIN SERVICE ALERT"
+    }
+  },
+  "quest_LocKey#12824": {
+    "default": {
+      "msg": "Black market operations intensify in abandoned stadium district. Security concerns grow.",
+      "title": "STADIUM OPERATIONS"
+    },
+    "choice": {
+      "msg": "NCPD MaxTac raids Maelstrom gang headquarters in All Foods plant. Multiple arrests made, cyberware lab discovered.",
+      "title": "MAELSTROM RAID IN WATSON"
+    }
+  },
+  "quest_LocKey#86582": {
+    "choice": {
+      "msg": "Tyger Claws expand territory in Westbrook Japantown. Rival gangs responding with increased patrols.",
+      "title": "TYGER CLAWS EXPANSION"
+    },
+    "default": {
+      "msg": "Daring art heist from prestigious Night City gallery. Priceless works stolen overnight.",
+      "title": "ART HEIST"
+    }
+  },
+  "quest_LocKey#8529": {
+    "default": {
+      "msg": "Prominent gang leader assassinated in broad daylight. Power struggle expected.",
+      "title": "GANG LEADER KILLED"
+    },
+    "choice": {
+      "msg": "Valentinos solidify control over key Heywood territories. Local businesses report increased protection demands.",
+      "title": "VALENTINOS HEYWOOD CONTROL"
+    }
+  },
+  "quest_LocKey#18640": {
+    "default": {
+      "msg": "Rare pre-collapse automobile sells for record price. Collectors compete fiercely.",
+      "title": "LUXURY CAR AUCTION"
+    },
+    "choice": {
+      "msg": "NCPD raids Animals gang headquarters in Pacifica. Synthetic steroid laboratory discovered and dismantled.",
+      "title": "ANIMALS GYM SHUTDOWN"
+    }
+  },
+  "quest_LocKey#78912": {
+    "default": {
+      "msg": "NCPD raids high-stakes underground casino. Prominent citizens among detained.",
+      "title": "UNDERGROUND CASINO"
+    },
+    "choice": {
+      "msg": "Netwatch reports intercepted Voodoo Boys attempt to contact entities beyond the Blackwall. High alert issued.",
+      "title": "VOODOO BOYS BLACKWALL PROBE"
+    }
+  },
+  "quest_LocKey#17855": {
+    "default": {
+      "msg": "Major talent agency accused of exploiting performers. Investigation launched.",
+      "title": "TALENT SCANDAL"
+    },
+    "choice": {
+      "msg": "6th Street gang hosts veterans gathering in Santo Domingo. NCPD maintains watchful distance as members assemble.",
+      "title": "6TH STREET GATHERING"
+    }
+  },
+  "quest_LocKey#10098": {
+    "default": {
+      "msg": "Annual corporate charity gala raises record funds. Critics question authenticity.",
+      "title": "CHARITY GALA"
+    },
+    "choice": {
+      "msg": "NCPD cybercrimes unit dismantles major Scavenger organ harvesting operation. Dozens of victims recovered.",
+      "title": "SCAVENGER DEN RAIDED"
+    }
+  },
+  "quest_LocKey#8641": {
+    "default": {
+      "msg": "Controversial weather control experiment conducted. Environmental impact debated.",
+      "title": "WEATHER EXPERIMENT"
+    },
+    "choice": {
+      "msg": "The Mox successfully repel hostile takeover attempt at Lizzie Bar. Gang solidarity praised by community.",
+      "title": "MOX DEFEND TERRITORY"
+    }
+  },
+  "quest_LocKey#19158": {
+    "default": {
+      "msg": "Controversial demolition of historic building proceeds despite protests.",
+      "title": "HISTORIC DEMOLITION"
+    },
+    "choice": {
+      "msg": "Nomad sources report Wraith raider convoy ambushed in the Badlands. No group claims responsibility.",
+      "title": "WRAITH CONVOY AMBUSH"
+    }
+  },
+  "quest_LocKey#12545": {
+    "default": {
+      "msg": "Construction crew discovers pre-collapse underground bunker. Artifacts recovered.",
+      "title": "BUNKER DISCOVERED"
+    },
+    "choice": {
+      "msg": "Violence escalates between rival gangs in contested territories. NCPD struggles to maintain order.",
+      "title": "GANG WAR ESCALATION"
+    }
+  },
+  "quest_LocKey#9992": {
+    "default": {
+      "msg": "Young street kid displays extraordinary netrunning abilities. Corps compete for recruitment.",
+      "title": "PRODIGY DISCOVERED"
+    },
+    "choice": {
+      "msg": "MaxTac squad neutralizes dangerous cyberpsycho in Kabuki marketplace. Three officers injured in operation.",
+      "title": "CYBERPSYCHO NEUTRALIZED"
+    }
+  },
+  "quest_LocKey#18697": {
+    "default": {
+      "msg": "NCPD raids illegal human cloning facility. Ethical implications spark outrage.",
+      "title": "CLONING FACILITY"
+    },
+    "choice": {
+      "msg": "NCPD deploys new body scanner checkpoints at major transit hubs. Privacy advocates protest surveillance.",
+      "title": "NCPD SCANNER DEPLOYMENT"
+    }
+  },
+  "quest_LocKey#10197": {
+    "default": {
+      "msg": "Smart weapon targeting malfunction causes deaths. Manufacturer faces lawsuit.",
+      "title": "WEAPON MALFUNCTION"
+    },
+    "choice": {
+      "msg": "Night City council approves significant budget increase for NCPD operations. New hiring wave expected.",
+      "title": "NCPD BUDGET APPROVED"
+    }
+  },
+  "quest_LocKey#1613": {
+    "default": {
+      "msg": "Famous celebrity bodyguard implicated in smuggling. Court date set.",
+      "title": "BODYGUARD SCANDAL"
+    },
+    "choice": {
+      "msg": "Internal Affairs opens investigation into corruption at NCPD South Night City precinct.",
+      "title": "NCPD CORRUPTION PROBE"
+    }
+  },
+  "quest_LocKey#13114": {
+    "default": {
+      "msg": "Security researchers demonstrate vulnerability in neural implants. Patch rushed.",
+      "title": "NEURAL HACK RISK"
+    },
+    "choice": {
+      "msg": "MaxTac successfully contains cyberpsychosis outbreak in Watson district. Casualties minimal.",
+      "title": "MAXTAC OPERATION SUCCESS"
+    }
+  },
+  "quest_LocKey#9463": {
+    "default": {
+      "msg": "Investigative journalists expose illegal toxic waste dumping. Corporate involvement suspected.",
+      "title": "TOXIC DUMPING"
+    },
+    "choice": {
+      "msg": "Eurodollar strengthens against NUSA dollar following positive economic indicators. Markets adjust accordingly.",
+      "title": "EURODOLLAR STRENGTHENS"
+    }
+  },
+  "quest_LocKey#36141": {
+    "default": {
+      "msg": "Critical organ shortage forces hospitals to make difficult decisions.",
+      "title": "ORGAN SHORTAGE"
+    },
+    "choice": {
+      "msg": "Night City Stock Exchange reports record trading volume. Analysts attribute surge to corporate activity.",
+      "title": "STOCK EXCHANGE RECORD"
+    }
+  },
+  "quest_LocKey#11821": {
+    "default": {
+      "msg": "Major cyberware manufacturer recalls limbs due to defect. Users urged to respond.",
+      "title": "IMPLANT RECALL"
+    },
+    "choice": {
+      "msg": "Foreclosure rates in Night City megabuildings reach five-year high. Housing advocates demand intervention.",
+      "title": "MEGABUILDING CRISIS"
+    }
+  },
+  "quest_LocKey#20288": {
+    "default": {
+      "msg": "Prominent ripperdoc loses license following botched surgery. Patient files suit.",
+      "title": "LICENSE REVOKED"
+    },
+    "choice": {
+      "msg": "Rumors of merger negotiations between major corporations spark market speculation.",
+      "title": "CORPORATE MERGER TALKS"
+    }
+  },
+  "quest_LocKey#12005": {
+    "default": {
+      "msg": "Rival gangs enter delicate truce negotiations. Fixers mediate discussions.",
+      "title": "TRUCE NEGOTIATIONS"
+    },
+    "choice": {
+      "msg": "Major corporation reports earnings exceeding analyst expectations. Stock price surges on news.",
+      "title": "QUARTERLY EARNINGS BEAT"
+    }
+  },
+  "quest_LocKey#22086": {
+    "default": {
+      "msg": "Trauma Team AV held hostage during extraction. Negotiators work to resolve.",
+      "title": "HOSTAGE STANDOFF"
+    },
+    "choice": {
+      "msg": "NCART metro service suspended between Watson and City Center. Track maintenance emergency declared.",
+      "title": "NCART DISRUPTION"
+    }
+  },
+  "quest_LocKey#13042": {
+    "default": {
+      "msg": "Explosion destroys luxury yacht in harbor. Corporate executive among casualties.",
+      "title": "YACHT EXPLOSION"
+    },
+    "choice": {
+      "msg": "Pacifica district reconstruction efforts stall as contractors cite security concerns.",
+      "title": "PACIFICA RECONSTRUCTION"
+    }
+  },
+  "quest_LocKey#12701": {
+    "default": {
+      "msg": "Underground street racing championship crowns new champion. Record prize awarded.",
+      "title": "RACING CHAMPION"
+    },
+    "choice": {
+      "msg": "Night City Power Authority completes Watson district power grid modernization.",
+      "title": "WATSON POWER UPGRADE"
+    }
+  },
+  "quest_LocKey#1619": {
+    "default": {
+      "msg": "Prototype military weapon stolen from secure facility. Massive reward offered.",
+      "title": "PROTOTYPE THEFT"
+    },
+    "choice": {
+      "msg": "Residents protest rapid gentrification in Glen neighborhood. Developers promise affordable units.",
+      "title": "HEYWOOD PROTESTS"
+    }
+  },
+  "quest_LocKey#23288": {
+    "default": {
+      "msg": "Anonymous hacker collective releases manifesto threatening targets.",
+      "title": "HACKER MANIFESTO"
+    },
+    "choice": {
+      "msg": "Nomad clans and corporate interests clash over Badlands water rights. NUSA mediators intervene.",
+      "title": "BADLANDS WATER DISPUTE"
+    }
+  },
+  "quest_LocKey#8627": {
+    "default": {
+      "msg": "Night City Fashion Week disrupted by protest action. Shows rescheduled.",
+      "title": "FASHION WEEK CHAOS"
+    },
+    "choice": {
+      "msg": "Night City council considers restrictions on military-grade Sandevistan implants following fatalities.",
+      "title": "SANDEVISTAN RESTRICTIONS"
+    }
+  },
+  "quest_LocKey#50249": {
+    "default": {
+      "msg": "Underground theater scene thrives despite corporate entertainment dominance.",
+      "title": "THEATER THRIVES"
+    },
+    "choice": {
+      "msg": "Underground fighting circuits featuring gorilla arms gain popularity. NCPD struggles to shut venues.",
+      "title": "GORILLA ARMS FIGHTS"
+    }
+  },
+  "quest_LocKey#8634": {
+    "default": {
+      "msg": "Vintage pre-collapse music experiences revival among youth. Record sales surge.",
+      "title": "MUSIC REVIVAL"
+    },
+    "choice": {
+      "msg": "Emergency rooms report surge in Mantis Blade-related accidents. Ripperdocs urge proper training.",
+      "title": "MANTIS BLADE ACCIDENTS"
+    }
+  },
+  "quest_LocKey#18639": {
+    "default": {
+      "msg": "Annual street food festival draws thousands. Culinary diversity celebrated.",
+      "title": "FOOD FESTIVAL"
+    },
+    "choice": {
+      "msg": "New braindance addiction treatment centers opening. Health officials warn of growing BD dependency.",
+      "title": "BRAINDANCE ADDICTION"
+    }
+  },
+  "quest_LocKey#35152": {
+    "default": {
+      "msg": "Abandoned mall transformed into community housing. Urban renewal praised.",
+      "title": "MALL TRANSFORMATION"
+    },
+    "choice": {
+      "msg": "Medical researchers identify syndrome affecting professional netrunners. ICE exposure linked to damage.",
+      "title": "NETRUNNER BURNOUT"
+    }
+  },
+  "quest_LocKey#10024": {
+    "default": {
+      "msg": "Corporate heir hosts scandalous party caught on video. Family reputation damaged.",
+      "title": "CORPORATE PARTY SCANDAL"
+    },
+    "choice": {
+      "msg": "Legendary rockerband Us Cracks announces surprise concert at Afterlife. Tickets sold out instantly.",
+      "title": "US CRACKS CONCERT"
+    }
+  },
+  "quest_LocKey#19331": {
+    "default": {
+      "msg": "Underground cyberware fighting league gains attention. Regulators consider action.",
+      "title": "FIGHTING LEAGUE"
+    },
+    "choice": {
+      "msg": "NCPD seizes massive illegal XBD braindance production facility. Victims rescued from recording site.",
+      "title": "XBD PRODUCTION BUST"
+    }
+  },
+  "quest_LocKey#12542": {
+    "default": {
+      "msg": "Potential bioweapon threat in water supply averted. Authorities assure safety.",
+      "title": "BIOWEAPON AVERTED"
+    },
+    "choice": {
+      "msg": "Rumors circulate about possible Samurai band reunion tour. Representatives decline to comment.",
+      "title": "SAMURAI REUNION RUMORS"
+    }
+  },
+  "quest_LocKey#13019": {
+    "default": {
+      "msg": "Structural engineers raise concerns about megabuilding safety. Inspections ordered.",
+      "title": "BUILDING COLLAPSE FEARS"
+    },
+    "choice": {
+      "msg": "Lizzie Bar celebrates anniversary with special performances. The Mox-owned venue thriving.",
+      "title": "LIZZIE BAR ANNIVERSARY"
+    }
+  },
+  "quest_LocKey#8508": {
+    "default": {
+      "msg": "Security drone swarm malfunctions in Corpo Plaza. Injuries reported.",
+      "title": "DRONE MALFUNCTION"
+    },
+    "choice": {
+      "msg": "Famous braindance star hospitalized after overdose at Clouds. Representatives request privacy.",
+      "title": "CELEBRITY BD OVERDOSE"
+    }
+  },
+  "quest_LocKey#8554": {
+    "default": {
+      "msg": "Pirate radio station briefly takes over frequency. Anti-corporate message broadcast.",
+      "title": "PIRATE RADIO"
+    },
+    "choice": {
+      "msg": "Large Aldecaldos nomad caravan spotted near Night City borders. Authorities monitor for activity.",
+      "title": "ALDECALDOS SPOTTED"
+    }
+  },
+  "quest_LocKey#12088": {
+    "default": {
+      "msg": "Health officials warn of virtual reality addiction epidemic. Treatment centers surge.",
+      "title": "VR ADDICTION"
+    },
+    "choice": {
+      "msg": "Major nomad trading clans adjust routes due to Wraith activity. Supply disruptions expected.",
+      "title": "NOMAD ROUTES SHIFT"
+    }
+  },
+  "quest_LocKey#18653": {
+    "default": {
+      "msg": "Regulatory authorities block major corporate merger. Anti-monopoly concerns cited.",
+      "title": "MERGER BLOCKED"
+    },
+    "choice": {
+      "msg": "Firefight between nomad clans and raiders in Badlands leaves multiple casualties.",
+      "title": "BADLANDS SKIRMISH"
+    }
+  },
+  "event_1st_night_city_bank": {
+    "default": {
+      "title": "FIRST NIGHT CITY BANK SECURITY BREACH",
+      "msg": "First Night City Bank reports attempted cyber intrusion on customer accounts. Security measures activated, no funds compromised."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_allworld_insurance": {
+    "default": {
+      "title": "ALLWORLD CLAIMS SURGE",
+      "msg": "Allworld Insurance reports surge in cyberware-related claims. Premium adjustments expected for high-risk policyholders."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_eurobank": {
+    "default": {
+      "title": "EUROBANK INTEREST RATES",
+      "msg": "EuroBank adjusts interest rates on savings accounts. Customers advised to review financial plans."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_archer": {
+    "default": {
+      "title": "ARCHER HELLA RECALL",
+      "msg": "Archer Motors issues recall for Hella series vehicles due to brake system concerns. Free repairs at authorized dealers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_aurochs": {
+    "default": {
+      "title": "AUROCHS HEAVY VEHICLE DEMAND",
+      "msg": "Aurochs heavy vehicle sales surge among corporate security and nomad clans. Durability praised by customers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_chevillon": {
+    "default": {
+      "title": "CHEVILLON THRAX UPGRADE",
+      "msg": "Chevillon announces performance upgrades for Thrax series. Enhanced engine and armor packages available."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_herrera": {
+    "default": {
+      "title": "HERRERA OUTLAW REVEAL",
+      "msg": "Herrera Motors reveals Outlaw GTS performance variant. Speed enthusiasts anticipate release."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_makigai": {
+    "default": {
+      "title": "MAKIGAI MAIMAI UPGRADE",
+      "msg": "Makigai releases upgraded MaiMai compact vehicle. Urban commuters appreciate improvements."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_mahir_motors": {
+    "default": {
+      "title": "MAHIR MOTORS VALUE LINE",
+      "msg": "Mahir Motors expands value vehicle lineup. Budget-conscious buyers embrace options."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_mizutani": {
+    "default": {
+      "title": "MIZUTANI SHION SALES",
+      "msg": "Mizutani Shion sports car sales exceed targets. Performance and style attract buyers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_villefort": {
+    "default": {
+      "title": "VILLEFORT CORTES UPGRADE",
+      "msg": "Villefort announces Cortes model upgrade package. Luxury sedan buyers appreciate enhancements."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_carolli": {
+    "default": {
+      "title": "CAROLLI LUXURY ORDERS",
+      "msg": "Carolli Motors reports strong luxury vehicle orders from corporate clients. Bespoke customization in high demand."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_porsche": {
+    "default": {
+      "title": "PORSCHE 911 II ORDERS",
+      "msg": "Porsche 911 II Turbo orders exceed production capacity. Wait times extending for buyers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_arch_motorcycle": {
+    "default": {
+      "title": "ARCH CUSTOM ORDERS SURGE",
+      "msg": "ARCH Motorcycle Company reports record custom orders. Keanu Reeves-designed bikes remain highly sought after."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_brennan": {
+    "default": {
+      "title": "BRENNAN APOLLO SALES RECORD",
+      "msg": "Brennan Apollo motorcycle sales reach record high. Affordable performance attracts first-time riders."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_yaiba": {
+    "default": {
+      "title": "YAIBA KUSANAGI ORDERS",
+      "msg": "Yaiba Kusanagi motorcycle orders surge. Sport bike enthusiasts embrace speed."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_constitutional_arms": {
+    "default": {
+      "title": "CONSTITUTIONAL ARMS SALES",
+      "msg": "Constitutional Arms reports strong firearm sales. Second Amendment messaging resonates with buyers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_kendachi": {
+    "default": {
+      "title": "KENDACHI BLADE RELEASE",
+      "msg": "Kendachi releases new monowire weapon system. Combat effectiveness praised by testers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_midnight_arms": {
+    "default": {
+      "title": "MIDNIGHT ARMS CUSTOM ORDERS",
+      "msg": "Midnight Arms reports surge in custom weapon orders. Bespoke firearms attract discerning buyers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_nokota": {
+    "default": {
+      "title": "NOKOTA WEAPONS CONTRACT",
+      "msg": "Nokota Manufacturing secures weapons parts contract. Production capacity expanding."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_rostovic": {
+    "default": {
+      "title": "ROSTOVIC WEAPONS EXPORT",
+      "msg": "Rostovic secures major weapons export deal. Eastern European manufacturer expands reach."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_techtronika": {
+    "default": {
+      "title": "TECHTRONIKA GADGET LAUNCH",
+      "msg": "Techtronika launches new consumer electronics line. Tech enthusiasts embrace innovations."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_avante": {
+    "default": {
+      "title": "AVANTE CYBERWARE LAUNCH",
+      "msg": "Avante unveils new line of consumer cyberware targeting mid-market buyers. Affordable chrome for everyday use."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_biodyne": {
+    "default": {
+      "title": "BIODYNE BIOWARE APPROVAL",
+      "msg": "BioDyne receives regulatory approval for new bioware implants. Clinical trials showed promising results."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_biotech_sigma": {
+    "default": {
+      "title": "BIOTECH SIGMA RESEARCH",
+      "msg": "Biotech Sigma announces research partnership with Night City Medical Center. Gene therapy trials planned."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_bodyweight_lps": {
+    "default": {
+      "title": "BODYWEIGHT FITNESS EXPANSION",
+      "msg": "Bodyweight LPS expands gym locations across Night City. Cyberware-enhanced fitness programs attract members."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_cybermatrix": {
+    "default": {
+      "title": "CYBERMATRIX SOFTWARE UPDATE",
+      "msg": "Cybermatrix releases critical software update for cyberware compatibility. Ripperdocs advised to install."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_data_inc": {
+    "default": {
+      "title": "DATA INC ANALYTICS BREAKTHROUGH",
+      "msg": "Data Inc announces breakthrough in predictive analytics. Corporate clients lining up for access."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_digital_dimensions": {
+    "default": {
+      "title": "DIGITAL DIMENSIONS VR RELEASE",
+      "msg": "Digital Dimensions releases immersive VR experience. Critics praise groundbreaking technology."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_euro_business_machines": {
+    "default": {
+      "title": "EBM MAINFRAME LAUNCH",
+      "msg": "Euro Business Machines launches new corporate mainframe. Processing power exceeds competitors."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_fuyutsuki_electronics": {
+    "default": {
+      "title": "FUYUTSUKI CHIP RELEASE",
+      "msg": "Fuyutsuki Electronics releases new processing chip. Performance gains attract tech enthusiasts."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_iec": {
+    "default": {
+      "title": "IEC POWER INNOVATION",
+      "msg": "International Electric Corporation announces power grid innovation. Efficiency improvements expected."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_microtech": {
+    "default": {
+      "title": "MICROTECH PROCESSOR LAUNCH",
+      "msg": "Microtech unveils revolutionary processor architecture. Computing industry takes notice."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_rocklin_augmentics": {
+    "default": {
+      "title": "ROCKLIN AUGMENTICS RELEASE",
+      "msg": "Rocklin Augmentics releases new prosthetic limb series. Enhanced functionality praised."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_sovoil": {
+    "default": {
+      "title": "SOVOIL REFINERY OUTPUT",
+      "msg": "SovOil reports increased refinery output. Fuel supplies stable despite regional tensions."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_otec": {
+    "default": {
+      "title": "OTEC POWER PLANT",
+      "msg": "OTEC announces new offshore power plant. Clean energy production increasing."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_zhirafa": {
+    "default": {
+      "title": "ZHIRAFA BEVERAGE LAUNCH",
+      "msg": "Zhirafa launches new refreshment beverage. Night City consumers embrace taste."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_braindance_inc": {
+    "default": {
+      "title": "BRAINDANCE INC CONTENT RELEASE",
+      "msg": "Braindance Inc releases highly anticipated new BD experience. Pre-orders exceed company projections."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_dakai_soundsystems": {
+    "default": {
+      "title": "DAKAI SOUND SYSTEM LAUNCH",
+      "msg": "Dakai Soundsystems unveils premium audio implants. Audiophile-grade sound quality claimed."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_eji_of_japan": {
+    "default": {
+      "title": "EJI OF JAPAN FASHION SHOW",
+      "msg": "Eji of Japan hosts exclusive fashion show in Japantown. Traditional-modern fusion designs unveiled."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_combat_cab": {
+    "default": {
+      "title": "COMBAT CAB SAVE",
+      "msg": "Combat Cab armored vehicle saves passengers from gang attack. Protection services prove value."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_ncart": {
+    "default": {
+      "title": "NCART SERVICE RESTORED",
+      "msg": "NCART metro service fully restored following maintenance. Commuters welcome reliable transit."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_charon_exotics": {
+    "default": {
+      "title": "CHARON EXOTICS VEHICLE FOUND",
+      "msg": "Charon Exotics recovers rare stolen vehicle from gang territory. Exclusive recovery service praised."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_baskin_undercover": {
+    "default": {
+      "title": "BASKIN UNDERCOVER INVESTIGATION",
+      "msg": "Baskin Undercover completes high-profile corporate investigation. Details remain confidential per client agreement."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_secure_services_inc": {
+    "default": {
+      "title": "SECURE SERVICES OPERATION",
+      "msg": "Secure Services Inc completes high-risk protection operation. Zero client casualties reported."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_danger_gal": {
+    "default": {
+      "title": "DANGER GAL ELITE MISSION",
+      "msg": "Danger Gal completes high-profile security operation. All-female team demonstrates excellence."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_pursuit_security": {
+    "default": {
+      "title": "PURSUIT SECURITY CONTRACT",
+      "msg": "Pursuit Security awarded high-profile protection contract. Elite team deployed."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_corp_bud": {
+    "default": {
+      "title": "CORP-BUD DISTRIBUTION DEAL",
+      "msg": "Corp-Bud secures exclusive distribution deal for synthetic beer. Bars across Night City now stocking."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_buck_a_slice": {
+    "default": {
+      "title": "BUCK-A-SLICE EXPANSION",
+      "msg": "Buck-A-Slice pizza chain opens new locations in Watson. Affordable food option welcomed by residents."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_kibble_corp": {
+    "default": {
+      "title": "KIBBLE CORP PRODUCTION",
+      "msg": "Kibble Corp increases production of protein supplements. Affordable nutrition for Night City masses."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_nicola": {
+    "default": {
+      "title": "NICOLA FLAVOR LAUNCH",
+      "msg": "NiCola launches limited edition energy drink flavor. Vending machines stocking new variant."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_chromanticore": {
+    "default": {
+      "title": "CHROMANTICORE FLAVOR LAUNCH",
+      "msg": "Chromanticore energy drink launches new flavor. Night City vending machines stocked with limited edition."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_night_city_development_authority": {
+    "default": {
+      "title": "NCDA PROJECT APPROVAL",
+      "msg": "Night City Development Authority approves major construction project. Jobs created for workers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_konpeki_plaza": {
+    "default": {
+      "title": "KONPEKI PLAZA RENOVATION",
+      "msg": "Konpeki Plaza hotel completes luxury renovation. Elite suites now available for booking."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_megabuilding_h10": {
+    "default": {
+      "title": "MEGABUILDING H10 REPAIRS",
+      "msg": "Megabuilding H10 management completes infrastructure repairs. Residents report improvements."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_jinguji": {
+    "default": {
+      "title": "JINGUJI FASHION COLLECTION",
+      "msg": "Jinguji unveils exclusive high-fashion collection. Elite clientele places pre-orders."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_breezy": {
+    "default": {
+      "title": "BREEZY FASHION WEEK SUCCESS",
+      "msg": "Breezy clothing line dominates Night City Fashion Week. Street style aesthetic resonates with youth market."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_stylishly": {
+    "default": {
+      "title": "STYLISHLY TREND REPORT",
+      "msg": "Stylishly releases Night City fashion trend report. Street style influences noted."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_afterlife": {
+    "default": {
+      "title": "AFTERLIFE LEGENDARY DEAL",
+      "msg": "Legendary mercenary deal brokered at Afterlife bar. The exclusive venue continues to attract Night City's most elite fixers and solos."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_empathy": {
+    "default": {
+      "title": "EMPATHY CLUB REOPENS",
+      "msg": "Empathy nightclub reopens after renovation. Enhanced braindance lounge attracts elite clientele."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_lizzie_s_bar": {
+    "default": {
+      "title": "LIZZIE'S BAR ANNIVERSARY",
+      "msg": "Lizzie's Bar celebrates anniversary with special event. Mox-owned establishment thriving."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_kizamasu_inc": {
+    "default": {
+      "title": "KIZAMASU MEDICAL DEVICE",
+      "msg": "Kizamasu Inc unveils advanced medical monitoring device. Hospital orders exceed projections."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_esa": {
+    "default": {
+      "title": "ESA ORBITAL MISSION SUCCESS",
+      "msg": "European Space Agency celebrates successful orbital mission. Space tourism expansion planned."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_orbital_cargo": {
+    "default": {
+      "title": "ORBITAL CARGO DELIVERY",
+      "msg": "Orbital Cargo completes rare off-world delivery. Space logistics proving profitable."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_worldsat": {
+    "default": {
+      "title": "WORLDSAT SATELLITE LAUNCH",
+      "msg": "WorldSat successfully launches communication satellite. Global coverage expanding."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_cino": {
+    "default": {
+      "title": "CINO SECURITY CONTRACT",
+      "msg": "CINO private security awarded contract for megabuilding protection. Armed response teams deployed."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_ihag": {
+    "default": {
+      "title": "IHAG SECURITY DEPLOYMENT",
+      "msg": "IHAG security forces deployed to protect corporate interests. Armed personnel highly trained."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_growl_fm": {
+    "default": {
+      "title": "GROWL FM RATINGS SURGE",
+      "msg": "Growl FM radio station ratings surge with new programming. Rock and metal fans celebrate."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_malorian_arms": {
+    "default": {
+      "title": "MALORIAN LEGENDARY STATUS",
+      "msg": "Malorian Arms weapons maintain legendary status. Collectors pay premium for rare pieces."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_aerocar": {
+    "default": {
+      "title": "AEROCAR FLEET EXPANSION",
+      "msg": "Aerocar announces expansion of aerial vehicle fleet to serve growing Night City demand for rapid transportation."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_continental_brands": {
+    "default": {
+      "title": "CONTINENTAL BRANDS ACQUISITION",
+      "msg": "Continental Brands acquires popular beverage brand. Portfolio expansion continues."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_gene_tek": {
+    "default": {
+      "title": "GENE-TEK THERAPY TRIAL",
+      "msg": "Gene-Tek begins clinical trials for genetic therapy treatment. Patients enrolled across Night City."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_infocomp": {
+    "default": {
+      "title": "INFOCOMP DATABASE UPDATE",
+      "msg": "Infocomp updates massive personal information database. Privacy concerns raised by activists."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_armscor": {
+    "default": {
+      "title": "ARMSCOR CONTRACT SECURED",
+      "msg": "Armscor secures major weapons contract with private military contractors. Production capacity expanding."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_scopdog": {
+    "default": {
+      "title": "SCOPDOG LOCATIONS EXPAND",
+      "msg": "Scopdog opens new synthetic meat stands across Night City. Affordable street food welcomed."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_first_continental_bank": {
+    "default": {
+      "title": "FIRST CONTINENTAL VAULT",
+      "msg": "First Continental Bank unveils enhanced vault security. Ultra-wealthy clients reassured."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_united_states_bank": {
+    "default": {
+      "title": "US BANK FEDERAL CONTRACT",
+      "msg": "United States Bank secures federal government contract. NUSA military transactions handled."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_tsuka_heavy_industries": {
+    "default": {
+      "title": "TSUKA MILITARY CONTRACT",
+      "msg": "Tsuka Heavy Industries wins military hardware contract. Exoskeleton production increasing."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_arroyo_power": {
+    "default": {
+      "title": "ARROYO POWER GRID STABLE",
+      "msg": "Arroyo Power Authority reports stable grid operations following infrastructure upgrades to Santo Domingo district."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_colby_holdings": {
+    "default": {
+      "title": "COLBY HOLDINGS PORTFOLIO",
+      "msg": "Colby Holdings reports strong returns on client portfolios. Investment strategy attracts new accounts."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_heywood_medical": {
+    "default": {
+      "title": "HEYWOOD MEDICAL EXPANSION",
+      "msg": "Heywood Medical opens new clinic in Vista Del Rey. Healthcare access improved for residents."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_pacifica_development": {
+    "default": {
+      "title": "PACIFICA DEVELOPMENT PLANS",
+      "msg": "Pacifica Development reveals rehabilitation plans for troubled district. Investment sought."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_rancho_coronado_supply": {
+    "default": {
+      "title": "RANCHO CORONADO INVENTORY",
+      "msg": "Rancho Coronado Supply expands hardware inventory. Industrial buyers appreciate selection."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_watson_logistics": {
+    "default": {
+      "title": "WATSON LOGISTICS EFFICIENCY",
+      "msg": "Watson Logistics improves delivery efficiency. Same-day service now available."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_wellsprings_water": {
+    "default": {
+      "title": "WELLSPRINGS WATER QUALITY",
+      "msg": "Wellsprings Water reports improved water quality metrics. Purification upgrades successful."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_westbrook_entertainment": {
+    "default": {
+      "title": "WESTBROOK SHOW ANNOUNCEMENT",
+      "msg": "Westbrook Entertainment announces star-studded show lineup. Ticket sales brisk."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_city_center_holdings": {
+    "default": {
+      "title": "CITY CENTER PROPERTY DEAL",
+      "msg": "City Center Holdings acquires prime Corpo Plaza real estate. Major development project announced."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_japantown_media": {
+    "default": {
+      "title": "JAPANTOWN MEDIA PRODUCTION",
+      "msg": "Japantown Media announces new entertainment production. Cultural programming for local community."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_kabuki_market": {
+    "default": {
+      "title": "KABUKI MARKET EXPANSION",
+      "msg": "Kabuki Market vendors expand offerings. Street food and goods attract Watson shoppers."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_little_china_trading": {
+    "default": {
+      "title": "LITTLE CHINA IMPORTS",
+      "msg": "Little China Trading secures exclusive import deal. Specialty goods now available in Watson."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_northside_industrial": {
+    "default": {
+      "title": "NORTHSIDE FACTORY OUTPUT",
+      "msg": "Northside Industrial reports increased factory output. Manufacturing jobs growing."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_vista_del_rey_properties": {
+    "default": {
+      "title": "VISTA DEL REY SALES",
+      "msg": "Vista Del Rey Properties reports strong condo sales. Heywood real estate market active."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_glen_development": {
+    "default": {
+      "title": "GLEN DEVELOPMENT PROJECT",
+      "msg": "Glen Development announces affordable housing project in Heywood. Community welcomes initiative."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_dogtown_salvage": {
+    "default": {
+      "title": "DOGTOWN SALVAGE RARE FIND",
+      "msg": "Dogtown Salvage discovers cache of pre-collapse technology. Rare components fetch premium prices."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_stadium_commerce": {
+    "default": {
+      "title": "STADIUM COMMERCE REVENUE",
+      "msg": "Stadium Commerce reports record concession revenue. Event attendance driving sales."
+    },
+    "choice": {
+      "title": "SHARD LEAK EXPOSES CORPORATE SECRETS",
+      "msg": "Leaked datashard reveals damaging corporate communications. Legal teams scramble to contain fallout."
+    }
+  },
+  "event_all_foods": {
+    "default": {
+      "msg": "All Foods reports significant developments affecting market position. Analysts monitoring situation for investment opportunities.",
+      "title": "ALL FOODS MARKET UPDATE"
+    }
+  },
+  "event_arasaka": {
+    "default": {
+      "title": "ARASAKA SECURITY PROTOCOL",
+      "msg": "Arasaka Corporation implements enhanced security protocols across all Night City facilities. Soulkiller countermeasures updated."
+    }
+  },
+  "event_asukaga": {
+    "default": {
+      "title": "ASUKAGA INVESTMENT RETURNS",
+      "msg": "Asukaga & Finch reports exceptional returns for clients. Investment strategy praised."
+    }
+  },
+  "event_biotechnica": {
+    "default": {
+      "title": "BIOTECHNICA CHOOH2 YIELD",
+      "msg": "Biotechnica reports record CHOOH2 fuel wheat yields from modified crops. Energy sector benefits."
+    }
+  },
+  "event_budget_arms": {
+    "default": {
+      "title": "BUDGET ARMS AFFORDABLE LINE",
+      "msg": "Budget Arms releases new affordable firearm line. Entry-level buyers embrace options."
+    }
+  },
+  "event_cytech": {
+    "default": {
+      "msg": "Cytech reports significant developments affecting market position. Analysts monitoring situation for investment opportunities.",
+      "title": "CYTECH MARKET UPDATE"
+    }
+  },
+  "event_dms": {
+    "default": {
+      "title": "DMS STREAMING RECORD",
+      "msg": "DMS streaming platform reports record subscriber growth. Original content driving engagement."
+    }
+  },
+  "event_dtr": {
+    "default": {
+      "title": "DTR TRANSIT EXPANSION",
+      "msg": "DTR Transport expands transit routes across Night City. Commuter options increasing."
+    }
+  },
+  "event_darra_poly": {
+    "default": {
+      "title": "DARRA POLY SALES SURGE",
+      "msg": "Darra Polytechnic weapons see sales surge in Night City. Affordable firearms popular."
+    }
+  },
+  "event_delamain": {
+    "default": {
+      "title": "DELAMAIN AI UPDATE",
+      "msg": "Delamain cab company releases AI personality update. Improved passenger experience reported."
+    }
+  },
+  "event_dynalar": {
+    "default": {
+      "title": "DYNALAR IMPLANT LAUNCH",
+      "msg": "Dynalar Technologies launches new cyberware for industrial workers. Strength enhancements available."
+    }
+  },
+  "event_ezhomes": {
+    "default": {
+      "title": "EZHOMES AFFORDABLE UNITS",
+      "msg": "EZHomes completes affordable housing project in Watson. Residents move into new apartments."
+    }
+  },
+  "event_kang_tao": {
+    "default": {
+      "title": "KANG TAO SMART WEAPONS",
+      "msg": "Kang Tao unveils advanced smart weapons targeting system. Military contracts expected."
+    }
+  },
+  "event_kaukaz": {
+    "default": {
+      "title": "KAUKAZ VEHICLE DELIVERY",
+      "msg": "Kaukaz delivers armored vehicles to corporate clients. Heavy transport in demand."
+    }
+  },
+  "event_kiroshi": {
+    "default": {
+      "title": "KIROSHI OPTICS UPGRADE",
+      "msg": "Kiroshi Optics releases firmware upgrade for optical implants. Enhanced vision modes available."
+    }
+  },
+  "event_lazarus": {
+    "default": {
+      "title": "LAZARUS DEPLOYMENT",
+      "msg": "Lazarus military contractors deploy on peacekeeping mission. Professional forces in demand."
+    }
+  },
+  "event_militech": {
+    "default": {
+      "title": "MILITECH WEAPONS TEST",
+      "msg": "Militech successfully tests next-generation weapons system at proving grounds. NUSA military observers impressed."
+    }
+  },
+  "event_moore": {
+    "default": {
+      "title": "MOORE DIY KITS",
+      "msg": "MoorE Tech releases cyberware maintenance kits. Home implant care now possible."
+    }
+  },
+  "event_ncpd": {
+    "default": {
+      "title": "NCPD OPERATION SUCCESS",
+      "msg": "NCPD MaxTac successfully neutralizes cyberpsycho threat. Officers commended for bravery."
+    }
+  },
+  "event_ncorp": {
+    "default": {
+      "title": "NCORP REAL ESTATE",
+      "msg": "NCorp acquires prime real estate for development. Major project planned."
+    }
+  },
+  "event_nn54": {
+    "default": {
+      "title": "NETWORK NEWS 54 EXCLUSIVE",
+      "msg": "Network News 54 breaks exclusive story. Viewership spikes across all Night City districts."
+    }
+  },
+  "event_netwatch": {
+    "default": {
+      "title": "NETWATCH BLACKWALL SECURE",
+      "msg": "Netwatch confirms Blackwall integrity following security assessment. Rogue AI containment stable."
+    }
+  },
+  "event_orbital_air": {
+    "default": {
+      "title": "ORBITAL AIR SHUTTLE SUCCESS",
+      "msg": "Orbital Air completes successful shuttle launch. Space travel services expanding."
+    }
+  },
+  "event_petrochem": {
+    "default": {
+      "title": "PETROCHEM REFINERY EXPANSION",
+      "msg": "Petrochem announces major refinery expansion in Santo Domingo. Jobs created for local workers."
+    }
+  },
+  "event_qiant": {
+    "default": {
+      "title": "QIANT QUANTUM CHIP",
+      "msg": "QianT releases revolutionary quantum processing chip. Netrunner community excited."
+    }
+  },
+  "event_quadra": {
+    "default": {
+      "title": "QUADRA TURBO LAUNCH",
+      "msg": "Quadra Motors launches limited edition Turbo-R sports car. Pre-orders sold out instantly."
+    }
+  },
+  "event_raven": {
+    "default": {
+      "title": "RAVEN CYBERWARE APPROVAL",
+      "msg": "Raven Microcybernetics receives approval for new implant line. Medical partnerships expanding."
+    }
+  },
+  "event_rayfield": {
+    "default": {
+      "title": "RAYFIELD CALIBURN ORDERS",
+      "msg": "Rayfield Caliburn luxury vehicle orders exceed production capacity. Elite buyers on waitlist."
+    }
+  },
+  "event_thorton": {
+    "default": {
+      "title": "THORTON MACKINAW UPGRADE",
+      "msg": "Thorton releases upgraded Mackinaw utility vehicle. Badlands customers appreciate durability."
+    }
+  },
+  "event_trauma_team": {
+    "default": {
+      "title": "TRAUMA TEAM RESPONSE TIME",
+      "msg": "Trauma Team International achieves record-breaking response times. Premium service value demonstrated."
+    }
+  },
+  "event_tsunami": {
+    "default": {
+      "title": "TSUNAMI SMART GUN",
+      "msg": "Tsunami Defense Systems unveils new smart gun technology. Military applications planned."
+    }
+  },
+  "event_wns": {
+    "default": {
+      "title": "WNS GLOBAL COVERAGE",
+      "msg": "World News Service expands international coverage. Night City residents access global news."
+    }
+  },
+  "event_zetatech": {
+    "default": {
+      "title": "ZETATECH CYBERDECK RELEASE",
+      "msg": "Zetatech releases cutting-edge cyberdeck for professional netrunners. Performance benchmarks exceeded."
+    }
+  }
+}
