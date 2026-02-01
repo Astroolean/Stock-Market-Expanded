@@ -1,0 +1,41 @@
+{
+  "triggers": [
+    {
+      "amount": 1,
+      "name": "moneySpent"
+    },
+    {
+      "amount": 1,
+      "name": "cwKills"
+    },
+    {
+      "amount": 1,
+      "name": "cwPurchase"
+    },
+    {
+      "amount": -1,
+      "name": "ncpdHustler"
+    },
+    {
+      "amount": -0.30000001192093,
+      "name": "quest_LocKey#12993"
+    }
+  ],
+  "maxStepSize": 2,
+  "smoothOff": 5,
+  "sharesAmount": 20000,
+  "atlasPath": "base\\icon\\stocks\\moore.inkatlas",
+  "max": 200,
+  "atlasPart": "stock",
+  "iconX": 415,
+  "iconY": 101,
+  "stockInfluence": [
+    {
+      "amount": -0.27500000596046,
+      "name": "Dynalar"
+    }
+  ],
+  "min": 70,
+  "name": "MoorE Technologies",
+  "info": "stockInfo_MoorE"
+}

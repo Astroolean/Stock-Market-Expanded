@@ -1,0 +1,24 @@
+{
+  "name": "Pursuit Security",
+  "min": 20,
+  "max": 90,
+  "maxStepSize": 5.5,
+  "smoothOff": 6,
+  "sharesAmount": 25000,
+  "atlasPath": "base\\\\gameplay\\\\gui\\\\common\\\\icons\\\\weapon_manufacturers.inkatlas",
+  "atlasPart": "arasaka",
+  "iconX": 415,
+  "iconY": 65,
+  "stockInfluence": [],
+  "triggers": [
+    {
+      "name": "ncpdKills",
+      "amount": 1.2
+    },
+    {
+      "name": "event_pursuit_security",
+      "amount": 5
+    }
+  ],
+  "info": "stockInfo_Pursuit Security"
+}

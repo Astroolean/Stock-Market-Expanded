@@ -1,0 +1,57 @@
+{
+  "maxStepSize": 2.5,
+  "smoothOff": 5,
+  "sharesAmount": 45000,
+  "atlasPath": "base\\icon\\stocks\\traumateam.inkatlas",
+  "atlasPart": "stock",
+  "iconX": 415,
+  "iconY": 92,
+  "stockInfluence": [
+    {
+      "name": "Arasaka",
+      "amount": 0.20000000298023
+    },
+    {
+      "name": "Militech",
+      "amount": 0.25
+    }
+  ],
+  "name": "Trauma Team",
+  "min": 160,
+  "max": 340,
+  "triggers": [
+    {
+      "name": "civilianKill",
+      "amount": 1
+    },
+    {
+      "name": "healsUsed",
+      "amount": -1
+    },
+    {
+      "name": "quest_LocKey#18649",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#12881",
+      "amount": -0.15000000596046
+    },
+    {
+      "name": "quest_LocKey#12867",
+      "amount": 0.1
+    },
+    {
+      "name": "quest_LocKey#12770",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#11821",
+      "amount": 0.17499999701977
+    },
+    {
+      "name": "quest_LocKey#9466",
+      "amount": 0.25
+    }
+  ],
+  "info": "stockInfo_Trauma Team"
+}
