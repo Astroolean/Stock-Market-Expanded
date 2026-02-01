@@ -1,0 +1,622 @@
+{
+  "_README": "=== STOCK MARKET EXPANDED - MASTER CONFIGURATION FILE ===",
+  "_VERSION": "3.0.0",
+  "_INSTRUCTIONS": "Edit any value below to customize your experience. Most changes take effect with hotkey reload. See Hot-Reload section for details.",
+  "_note": "All values are fully customizable. Edit with care. Backup before modifying.",
+  
+  "_hotReload": {
+    "_description": "=== HOT-RELOAD FEATURE ===",
+    "_instantReload": "Press reload hotkey (CET Settings > Bindings > Hotkeys > Reload Stock Market Config)",
+    "_closeReopenUI": "Close/reopen stock browser for UI changes (no restart needed)",
+    "_gameRestart": "Only needed for: adding new corporations, language changes, config structure changes"
+  },
+  
+  "_credits": {
+    "createdBy": ["keanuWheeze", "scornthegreat"],
+    "expandedBy": "Astroolean",
+    "specialThanks": [
+      "scornthegreat - Created most of the 66 news messages, original idea, extensive development help, testing, screenshots, and mod page assistance",
+      "Zwei - Helped create some of the news messages"
+    ],
+    "libraries": [
+      "psiberx - Cron.lua, EventProxy.lua, GameSession.lua, GameSettings.lua, GameUI.lua, Ref.lua, UIScroller.lua"
+    ],
+    "artwork": [
+      "Deceptious - Stock Exchange logo and UI design advice",
+      "Valency Graphics - All company icons"
+    ],
+    "descriptions": [
+      "Cyberpunk Fandom Wiki editors - Most stock descriptions sourced from their excellent documentation"
+    ],
+    "translations": [
+      "Zo7lin - Chinese translation"
+    ]
+  },
+
+
+
+  "general": {
+    "_description": "=== GENERAL SETTINGS ===",
+    
+    "enabled": true,
+    "stockUpdateInterval": 120,
+    "language": "en-us",
+    "currencySymbol": "E$",
+    "enablePhoneNotifications": true,
+    "enableDebugMode": false,
+    "autoSaveInterval": 60,
+    "showTutorialOnFirstLaunch": true
+  },
+
+
+
+  "ui": {
+    "_description": "=== USER INTERFACE SETTINGS ===",
+    
+    "theme": {
+      "_description": "All colors use RGB format (0-255). Hot-reloadable with UI close/reopen.",
+      
+      "primaryColor":     {"r": 94,  "g": 246, "b": 255, "_note": "Cyan - Main accent color"},
+      "secondaryColor":   {"r": 255, "g": 200, "b": 50,  "_note": "Gold - Secondary highlights"},
+      "accentColor":      {"r": 200, "g": 50,  "b": 255, "_note": "Purple - Special elements"},
+      "successColor":     {"r": 50,  "g": 255, "b": 100, "_note": "Green - Positive values, gains"},
+      "dangerColor":      {"r": 255, "g": 80,  "b": 80,  "_note": "Red - Negative values, losses"},
+      "warningColor":     {"r": 255, "g": 180, "b": 50,  "_note": "Orange - Warnings"},
+      "backgroundColor":  {"r": 15,  "g": 25,  "b": 40,  "_note": "Dark blue - Main background"},
+      "panelColor":       {"r": 20,  "g": 30,  "b": 45,  "_note": "Slightly lighter - Panel backgrounds"},
+      "panelBorder":      {"r": 94,  "g": 246, "b": 255, "_note": "Cyan - Panel border color"},
+      "textPrimary":      {"r": 255, "g": 255, "b": 255, "_note": "White - Main text"},
+      "textSecondary":    {"r": 200, "g": 220, "b": 240, "_note": "Light blue - Secondary text"},
+      "textMuted":        {"r": 120, "g": 140, "b": 160, "_note": "Gray - Muted/disabled text"},
+      "lightText":        {"r": 220, "g": 230, "b": 245, "_note": "Off-white - Light readable text"},
+      "mediumText":       {"r": 180, "g": 195, "b": 215, "_note": "Medium gray - Descriptions"}
+    },
+    
+    "fonts": {
+      "_description": "Font sizes in points. Hot-reloadable with UI close/reopen.",
+      
+      "heroTitle": 80,
+      "pageTitle": 72,
+      "sectionTitle": 56,
+      "title": 56,
+      "header": 48,
+      "subheader": 42,
+      "body": 38,
+      "label": 32,
+      "small": 28,
+      "tiny": 24,
+      "button": 44,
+      "stockName": 52,
+      "stockPrice": 48,
+      "newsHeadline": 46,
+      "newsBody": 42
+    },
+    
+    "layout": {
+      "_description": "Layout dimensions in pixels. Hot-reloadable with UI close/reopen.",
+      
+      "viewportWidth": 2600,
+      "viewportStartX": 80,
+      "maxPanelWidth": 2600,
+      "headerHeight": 200,
+      "panelPadding": 40,
+      "elementSpacing": 20,
+      "buttonHeight": 70,
+      "buttonWidth": 200,
+      "inputHeight": 60,
+      "cardHeight": 120,
+      "stockCardWidth": 1260,
+      "stockCardHeight": 180,
+      "graphHeight": 400,
+      "graphWidth": 1200,
+      "borderThickness": 2,
+      "borderRadius": 8
+    },
+    
+    "animations": {
+      "_description": "Animation settings",
+      
+      "enabled": true,
+      "buttonHoverScale": 1.02,
+      "transitionDuration": 0.2,
+      "fadeInDuration": 0.3
+    }
+  },
+
+
+
+  "stockMarket": {
+    "_description": "=== STOCK MARKET SETTINGS ===",
+    
+    "enabled": true,
+    "startingCash": 10000,
+    "maxSharesPerTransaction": 10000,
+    "priceHistoryLength": 50,
+    "graphDataPoints": 30,
+    "refreshInterval": 2,
+    
+    "volatility": {
+      "_description": "Price movement intensity per stock tier. Hot-reloadable.",
+      "globalMultiplier": 1.0,
+      
+      "largeCap": {
+        "stepSize": 2.5,
+        "_note": "Major corps (Arasaka, Militech) - Most stable"
+      },
+      "mediumCap": {
+        "stepSize": 4.0,
+        "_note": "Mid-sized companies - Moderate volatility"
+      },
+      "smallCap": {
+        "stepSize": 5.5,
+        "_note": "Smaller companies - Higher volatility"
+      },
+      "pennyCap": {
+        "stepSize": 8.0,
+        "_note": "Penny stocks - Highest risk/reward"
+      }
+    },
+    
+    "priceFluctuation": {
+      "_description": "Market crash and boom chances (0.0 to 1.0). Hot-reloadable.",
+      "crashChance": 0.02,
+      "boomChance": 0.02,
+      "crashMultiplier": 0.7,
+      "boomMultiplier": 1.4
+    },
+    
+    "tradingFees": {
+      "_description": "Optional trading fees (disabled by default). Hot-reloadable.",
+      "enabled": false,
+      "buyFeePercent": 0.0,
+      "sellFeePercent": 0.0,
+      "minimumFee": 0
+    },
+    
+    "shareButtons": {
+      "_description": "Quick share amount buttons. Hot-reloadable.",
+      "amounts": [1, 10, 100, 1000],
+      "showMaxButton": true
+    },
+    
+    "sorting": {
+      "_description": "Default sorting options",
+      "defaultSort": "desValue",
+      "availableSorts": ["ascAlpha", "desAlpha", "ascPercent", "desPercent", "ascValue", "desValue"]
+    }
+  },
+
+
+
+  "portfolio": {
+    "_description": "=== PORTFOLIO SETTINGS ===",
+    
+    "refreshInterval": 2,
+    "maxDisplayedHoldings": 50,
+    "showEmptyPositions": false,
+    "allInOneThreshold": 50000,
+    "allInOneWarning": true,
+    
+    "display": {
+      "showRealizedPL": true,
+      "showUnrealizedPL": true,
+      "showTotalPL": true,
+      "showPercentChange": true,
+      "showCostBasis": true
+    },
+    
+    "alerts": {
+      "enabled": true,
+      "gainThresholdPercent": 20,
+      "lossThresholdPercent": -15
+    }
+  },
+
+
+
+  "security": {
+    "_description": "=== SECURITY & HACKING SETTINGS ===",
+    
+    "enabled": true,
+    
+    "hackingRisk": {
+      "_description": "Risk of being hacked and losing funds. Hot-reloadable.",
+      "enabled": true,
+      "baseHackChance": 0.15,
+      "publicPCMultiplier": 2.0,
+      "insecureLogoutMultiplier": 1.5,
+      "maxHackChance": 0.50,
+      "minHackChance": 0.05,
+      "minPortfolioValueToHack": 10000,
+      "hackCheckIntervalSeconds": 300,
+      
+      "hackSeverity": {
+        "minor":        {"chance": 0.50, "lossPercent": 0.25, "_note": "Lose 25% of portfolio"},
+        "major":        {"chance": 0.35, "lossPercent": 0.50, "_note": "Lose 50% of portfolio"},
+        "catastrophic": {"chance": 0.15, "lossPercent": 1.00, "_note": "Lose everything"}
+      }
+    },
+    
+    "securityScore": {
+      "_description": "Your security rating affects hack chance. Higher score = lower hack risk. Hot-reloadable.",
+      "maxScore": 100,
+      "minScore": 0,
+      "startingScore": 50,
+      
+      "_antiExploit": "--- ANTI-EXPLOIT MEASURES ---",
+      "minSessionForBonusSeconds": 10,
+      "loginCooldownSeconds": 30,
+      "consecutiveBonusMilestone": 3,
+      "maxDiversificationBonuses": 3,
+      
+      "_loginLogout": "--- LOGIN/LOGOUT FACTORS ---",
+      "properLogoutBonus": 10,
+      "insecureLogoutPenalty": -15,
+      "publicPCPenalty": -5,
+      "longSessionPenalty": -2,
+      "longSessionThresholdMinutes": 30,
+      "consecutiveSecureLoginsBonus": 5,
+      
+      "_trading": "--- TRADING FACTORS ---",
+      "successfulTradeBonus": 2,
+      "failedTradePenalty": -3,
+      "largeTradePenalty": -5,
+      "largeTradeThreshold": 100000,
+      "rapidTradingPenalty": -8,
+      "rapidTradingWindowSeconds": 30,
+      
+      "_portfolio": "--- PORTFOLIO FACTORS ---",
+      "portfolioCheckBonus": 1,
+      "portfolioCheckCooldownMinutes": 5,
+      "diversifiedPortfolioBonus": 5,
+      "diversificationThreshold": 5,
+      "concentratedPortfolioPenalty": -10,
+      
+      "_news": "--- NEWS FACTORS ---",
+      "newsReadBonus": 1,
+      "newsReadCooldownMinutes": 2,
+      
+      "_insurance": "--- INSURANCE FACTORS ---",
+      "hasInsuranceBonus": 3,
+      "insuranceCheckInterval": 300,
+      
+      "_timeBased": "--- TIME-BASED FACTORS ---",
+      "nightTradingPenalty": -4,
+      "nightStartHour": 2,
+      "nightEndHour": 5,
+      
+      "_behavior": "--- BEHAVIOR FACTORS ---",
+      "idleSessionPenalty": -1,
+      "idleThresholdMinutes": 15,
+      "frequentLoginBonus": 2,
+      "frequentLoginDays": 3,
+      
+      "_risk": "--- RISK FACTORS ---",
+      "allInOnePenalty": -15,
+      "highValueTargetPenalty": -5,
+      "highValueThreshold": 500000,
+      
+      "_recovery": "--- RECOVERY FACTORS ---",
+      "cleanRecordBonus": 5,
+      "cleanRecordDays": 7,
+      "hackSurvivorBonus": 3
+    }
+  },
+
+
+
+  "insurance": {
+    "_description": "=== INSURANCE SETTINGS ===",
+    
+    "enabled": true,
+    "provider": "Cyber Punk Insurance Corporation",
+    "providerShortName": "CPIC",
+    
+    "tiers": {
+      "_description": "Insurance plans available for purchase. Hot-reloadable.",
+      
+      "none": {
+        "name": "Uninsured",
+        "monthlyPremium": 0,
+        "coveragePercent": 0,
+        "maxPayout": 0,
+        "color": {"r": 120, "g": 140, "b": 160}
+      },
+      "basic": {
+        "name": "CPIC Basic",
+        "monthlyPremium": 500,
+        "coveragePercent": 0.25,
+        "maxPayout": 100000,
+        "color": {"r": 100, "g": 180, "b": 100}
+      },
+      "standard": {
+        "name": "CPIC Standard",
+        "monthlyPremium": 2000,
+        "coveragePercent": 0.40,
+        "maxPayout": 500000,
+        "color": {"r": 100, "g": 150, "b": 220}
+      },
+      "premium": {
+        "name": "CPIC Premium",
+        "monthlyPremium": 5000,
+        "coveragePercent": 0.50,
+        "maxPayout": 2000000,
+        "color": {"r": 180, "g": 100, "b": 220}
+      },
+      "platinum": {
+        "name": "CPIC Platinum",
+        "monthlyPremium": 15000,
+        "coveragePercent": 0.75,
+        "maxPayout": 10000000,
+        "color": {"r": 220, "g": 220, "b": 255}
+      },
+      "diamond": {
+        "name": "CPIC Diamond",
+        "oneTimeCost": 100000,
+        "monthlyPremium": 0,
+        "coveragePercent": 1.0,
+        "maxPayout": 999999999,
+        "isLifetime": true,
+        "color": {"r": 94, "g": 246, "b": 255},
+        "_note": "Lifetime coverage - one-time payment, 100% coverage, unlimited payout"
+      }
+    },
+    
+    "payoutCalculation": {
+      "_description": "How insurance payouts are calculated",
+      "minSecurityScoreMultiplier": 0.5,
+      "maxSecurityScoreMultiplier": 1.0,
+      "deductiblePercent": 0.0
+    },
+    
+    "claimCooldownDays": 30,
+    "maxClaimsPerYear": 3,
+    "premiumGracePeriodDays": 3,
+    "lapseWarningDays": 7
+  },
+
+
+
+  "news": {
+    "_description": "=== NEWS SYSTEM SETTINGS ===",
+    
+    "enabled": true,
+    "updateIntervalSeconds": 5,
+    "maxDisplayedNews": 3,
+    "maxActiveNews": 10,
+    "maxNewsHistory": 50,
+    "questNewsEnabled": true,
+    "marketNewsEnabled": true,
+    "randomNewsEnabled": true,
+    
+    "display": {
+      "showTimestamp": true,
+      "showSource": true,
+      "showImpactIndicator": true,
+      "truncateHeadlineLength": 80
+    },
+    
+    "categories": {
+      "_description": "Enable/disable news categories",
+      "corporate": true,
+      "market": true,
+      "crime": true,
+      "technology": true,
+      "politics": true,
+      "entertainment": true
+    },
+    
+    "notifications": {
+      "enabled": true,
+      "showOnPhone": true,
+      "urgentOnly": false
+    }
+  },
+
+
+
+  "home": {
+    "_description": "=== HOME PAGE SETTINGS ===",
+    
+    "showWelcomeMessage": true,
+    "showMarketSummary": true,
+    "showSecurityStatus": true,
+    "showInsuranceStatus": true,
+    "showQuickActions": true,
+    "showRecentActivity": true,
+    "maxRecentActivity": 5,
+    
+    "marketSummary": {
+      "showTotalMarketCap": true,
+      "showTopGainers": true,
+      "showTopLosers": true,
+      "topCount": 3
+    }
+  },
+
+
+
+  "difficulty": {
+    "_description": "=== DIFFICULTY SETTINGS ===",
+    "_options": ["story", "easy", "normal", "hard", "nightmare", "custom"],
+    
+    "preset": "normal",
+    
+    "presetMultipliers": {
+      "story": {
+        "hackChance": 0.0,
+        "insuranceCost": 0.5,
+        "volatility": 0.5,
+        "tradingFees": 0.0,
+        "_note": "No hacking risk, cheap insurance, low volatility"
+      },
+      "easy": {
+        "hackChance": 0.5,
+        "insuranceCost": 0.75,
+        "volatility": 0.75,
+        "tradingFees": 0.5,
+        "_note": "50% hack chance, 75% costs, 75% volatility"
+      },
+      "normal": {
+        "hackChance": 1.0,
+        "insuranceCost": 1.0,
+        "volatility": 1.0,
+        "tradingFees": 1.0,
+        "_note": "Standard experience as intended"
+      },
+      "hard": {
+        "hackChance": 1.5,
+        "insuranceCost": 1.25,
+        "volatility": 1.25,
+        "tradingFees": 1.5,
+        "_note": "150% hack chance, 125% costs, 125% volatility"
+      },
+      "nightmare": {
+        "hackChance": 2.5,
+        "insuranceCost": 1.5,
+        "volatility": 1.75,
+        "tradingFees": 2.0,
+        "_note": "250% hack chance, 150% costs, 175% volatility"
+      }
+    },
+    
+    "custom": {
+      "_description": "Custom difficulty multipliers (only used when preset is 'custom')",
+      "hackChanceMultiplier": 1.0,
+      "insuranceCostMultiplier": 1.0,
+      "volatilityMultiplier": 1.0,
+      "tradingFeesMultiplier": 1.0,
+      "securityScoreGainMultiplier": 1.0,
+      "securityScoreLossMultiplier": 1.0
+    }
+  },
+
+
+
+  "audio": {
+    "_description": "=== AUDIO SETTINGS ===",
+    
+    "enabled": true,
+    "masterVolume": 1.0,
+    "uiSoundsEnabled": true,
+    "notificationsEnabled": true,
+    "tradeSoundsEnabled": true,
+    "alertSoundsEnabled": true,
+    
+    "sounds": {
+      "buyStock": "ui_menu_onpress",
+      "sellStock": "ui_menu_onpress",
+      "notification": "ui_notification",
+      "error": "ui_error",
+      "success": "ui_success",
+      "hackWarning": "ui_alert"
+    }
+  },
+
+
+
+  "notifications": {
+    "_description": "=== NOTIFICATION SETTINGS ===",
+    
+    "enabled": true,
+    "showHackWarnings": true,
+    "showInsuranceReminders": true,
+    "showPriceAlerts": true,
+    "showNewsAlerts": true,
+    "showTradeConfirmations": true,
+    "showSecurityScoreChanges": false,
+    "showDividends": true,
+    
+    "display": {
+      "duration": 5,
+      "position": "topRight",
+      "maxVisible": 3,
+      "stackNotifications": true
+    },
+    
+    "filters": {
+      "minTradeValueForNotification": 1000,
+      "minPriceChangePercent": 5,
+      "minSecurityScoreChange": 10
+    }
+  },
+
+
+
+  "graph": {
+    "_description": "=== PRICE GRAPH SETTINGS ===",
+    
+    "enabled": true,
+    "dataPoints": 30,
+    "showGrid": true,
+    "showLabels": true,
+    "showCurrentPrice": true,
+    "showHighLow": true,
+    "animateOnLoad": true,
+    
+    "colors": {
+      "lineUp": {"r": 50, "g": 255, "b": 100},
+      "lineDown": {"r": 255, "g": 80, "b": 80},
+      "grid": {"r": 60, "g": 80, "b": 100},
+      "background": {"r": 15, "g": 25, "b": 40}
+    },
+    
+    "dimensions": {
+      "width": 1200,
+      "height": 400,
+      "lineThickness": 3,
+      "pointRadius": 4
+    }
+  },
+
+
+
+  "triggers": {
+    "_description": "=== STOCK TRIGGER SETTINGS ===",
+    
+    "enabled": true,
+    "questTriggersEnabled": true,
+    "actionTriggersEnabled": true,
+    "timeTriggersEnabled": true,
+    
+    "questImpact": {
+      "_description": "How much quest completion affects stock prices",
+      "minorQuest": 0.02,
+      "majorQuest": 0.05,
+      "mainQuest": 0.10
+    },
+    
+    "actionImpact": {
+      "_description": "How player actions affect stock prices",
+      "vehiclePurchase": 0.01,
+      "weaponPurchase": 0.005,
+      "cyberwarePurchase": 0.008,
+      "crimeCommitted": -0.02,
+      "policeEvasion": -0.03
+    }
+  },
+
+
+
+  "advanced": {
+    "_description": "=== ADVANCED SETTINGS (Modify with caution) ===",
+    
+    "saveDataVersion": 3,
+    "enableExperimentalFeatures": false,
+    "logLevel": "warn",
+    "maxLogEntries": 100,
+    "performanceMode": false,
+    
+    "dataManagement": {
+      "autoBackup": true,
+      "backupIntervalMinutes": 30,
+      "maxBackups": 5,
+      "compressBackups": false
+    },
+    
+    "compatibility": {
+      "legacySaveSupport": true,
+      "migrateOldData": true
+    }
+  }
+}
